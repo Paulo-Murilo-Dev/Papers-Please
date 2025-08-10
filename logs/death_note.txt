@@ -69166,3 +69166,35 @@
 ⏱️ Tempo até punição: 2515.06s
 🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
 📅 Quando: 2025-08-10T21:07:22.740Z
+
+===== IP: 102.67.165.36 (2025-08-10) =====
+🧠 IP: 102.67.165.36
+🌐 País: ZA
+📍 Região: Gauteng
+🏙️ Cidade: Johannesburg
+🏢 Org (ISP): AS36236 NetActuate, Inc
+🔢 ASN: AS36236
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 33416, 36752, 57532
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 3838.41s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-08-10T21:24:12.843Z
+
+===== IP: 140.82.121.4 (2025-08-10) =====
+🧠 IP: 140.82.121.4
+🌐 País: DE
+📍 Região: Hesse
+🏙️ Cidade: Frankfurt am Main
+🏢 Org (ISP): AS36459 GitHub, Inc.
+🔢 ASN: AS36459
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 59182, 36544
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 53.57s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-08-10T21:41:29.002Z
