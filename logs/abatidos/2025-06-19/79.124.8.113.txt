@@ -1,0 +1,14 @@
+🧠 IP: 79.124.8.113
+🌐 País: NL
+📍 Região: Flevoland
+🏙️ Cidade: Lelystad
+🏢 Org (ISP): AS213438 ColocaTel Inc.
+🔢 ASN: AS213438
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 34567
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 63657.69s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-19T22:11:58.457Z

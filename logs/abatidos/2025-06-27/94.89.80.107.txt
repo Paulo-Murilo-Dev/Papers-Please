@@ -1,0 +1,14 @@
+🧠 IP: 94.89.80.107
+🌐 País: IT
+📍 Região: Campania
+🏙️ Cidade: Naples
+🏢 Org (ISP): AS3269 Telecom Italia S.p.A.
+🔢 ASN: AS3269
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 22
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 0.82s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-27T20:37:33.237Z

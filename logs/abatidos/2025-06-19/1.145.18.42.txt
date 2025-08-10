@@ -1,0 +1,14 @@
+🧠 IP: 1.145.18.42
+🌐 País: AU
+📍 Região: New South Wales
+🏙️ Cidade: Sydney
+🏢 Org (ISP): AS1221 Telstra Limited
+🔢 ASN: AS1221
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 22
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 733.44s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-19T04:16:16.693Z

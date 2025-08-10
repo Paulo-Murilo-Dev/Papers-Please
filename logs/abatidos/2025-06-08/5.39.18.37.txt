@@ -1,0 +1,14 @@
+🧠 IP: 5.39.18.37
+🌐 País: FR
+📍 Região: Hauts-de-France
+🏙️ Cidade: Amiens
+🏢 Org (ISP): AS16276 OVH SAS
+🔢 ASN: AS16276
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 5993, 5958, 5903, 5936, 5986, 5941, 5969, 5975, 5927, 5956, 5978, 5925, 5929, 5926, 5948, 5935, 5989, 5942, 5976, 5951
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 524.79s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-08T01:38:09.547Z

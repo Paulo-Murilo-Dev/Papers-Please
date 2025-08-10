@@ -1,0 +1,14 @@
+🧠 IP: 89.248.163.80
+🌐 País: NL
+📍 Região: North Holland
+🏙️ Cidade: Haarlem
+🏢 Org (ISP): AS202425 IP Volume inc
+🔢 ASN: AS202425
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 1581, 7071, 402, 14330, 5554, 1582, 2100, 50501, 9810, 52302, 1494, 13, 5247, 7800, 7700, 3460, 5906, 11000, 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 6420.82s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-13T06:09:51.233Z

@@ -1,0 +1,14 @@
+🧠 IP: 13.235.135.25
+🌐 País: IN
+📍 Região: Maharashtra
+🏙️ Cidade: Mumbai
+🏢 Org (ISP): AS16509 Amazon.com, Inc.
+🔢 ASN: AS16509
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 22
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 21.95s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-16T07:46:02.366Z

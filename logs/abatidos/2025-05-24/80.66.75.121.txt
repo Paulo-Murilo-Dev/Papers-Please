@@ -1,0 +1,14 @@
+🧠 IP: 80.66.75.121
+🌐 País: RU
+📍 Região: Moscow
+🏙️ Cidade: Moscow
+🏢 Org (ISP): AS211849 Kakharov Orinbassar Maratuly
+🔢 ASN: AS211849
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443, 80, 88, 81, 9000, 8080, 85, 8000, 8001, 90, 83
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 17813.86s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-24T17:45:20.734Z

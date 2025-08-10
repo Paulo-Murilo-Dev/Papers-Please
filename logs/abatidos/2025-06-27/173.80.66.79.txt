@@ -1,0 +1,14 @@
+🧠 IP: 173.80.66.79
+🌐 País: US
+📍 Região: North Carolina
+🏙️ Cidade: Rocky Mount
+🏢 Org (ISP): AS19108 Optimum
+🔢 ASN: AS19108
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 22
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 0.76s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-27T22:35:45.202Z

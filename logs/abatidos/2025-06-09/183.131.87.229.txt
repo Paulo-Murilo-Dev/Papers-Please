@@ -1,0 +1,14 @@
+🧠 IP: 183.131.87.229
+🌐 País: CN
+📍 Região: Zhejiang
+🏙️ Cidade: Jiaxing
+🏢 Org (ISP): AS58461 CT-HangZhou-IDC
+🔢 ASN: AS58461
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 2.54s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-09T06:38:59.041Z

@@ -1,0 +1,14 @@
+🧠 IP: 152.59.3.66
+🌐 País: IN
+📍 Região: Gujarat
+🏙️ Cidade: Vadodara
+🏢 Org (ISP): AS55836 Reliance Jio Infocomm Limited
+🔢 ASN: AS55836
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 48.27s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-16T08:18:42.313Z

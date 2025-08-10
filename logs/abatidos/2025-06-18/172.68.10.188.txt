@@ -1,0 +1,14 @@
+🧠 IP: 172.68.10.188
+🌐 País: RU
+📍 Região: Moscow
+🏙️ Cidade: Moscow
+🏢 Org (ISP): AS13335 Cloudflare, Inc.
+🔢 ASN: AS13335
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1.58s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-18T00:53:32.506Z

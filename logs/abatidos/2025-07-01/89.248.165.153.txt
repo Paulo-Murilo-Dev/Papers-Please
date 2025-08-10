@@ -1,0 +1,14 @@
+🧠 IP: 89.248.165.153
+🌐 País: NL
+📍 Região: North Holland
+🏙️ Cidade: Amsterdam
+🏢 Org (ISP): AS202425 IP Volume inc
+🔢 ASN: AS202425
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 13646, 10834, 13892, 12228, 12551, 10978, 12987, 10235, 12801, 10957, 14579, 14829, 14648, 10563, 13409, 13045, 14589, 14357, 13502, 14535
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1453.61s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-07-01T23:58:15.391Z

@@ -1,0 +1,14 @@
+🧠 IP: 68.183.18.41
+🌐 País: US
+📍 Região: New Jersey
+🏙️ Cidade: North Bergen
+🏢 Org (ISP): AS14061 DigitalOcean, LLC
+🔢 ASN: AS14061
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 80
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 6792.60s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-27T07:35:44.043Z

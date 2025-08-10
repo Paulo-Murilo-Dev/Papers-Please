@@ -1,0 +1,14 @@
+🧠 IP: 5.9.153.113
+🌐 País: DE
+📍 Região: Saxony
+🏙️ Cidade: Falkenstein
+🏢 Org (ISP): AS24940 Hetzner Online GmbH
+🔢 ASN: AS24940
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 311, 20, 23, 21, 7, 280, 22
+📈 Requisições: 8
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 4469.84s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-07T01:58:03.943Z

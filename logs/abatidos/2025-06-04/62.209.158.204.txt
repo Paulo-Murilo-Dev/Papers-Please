@@ -1,0 +1,14 @@
+🧠 IP: 62.209.158.204
+🌐 País: UZ
+📍 Região: Samarqand Region
+🏙️ Cidade: Samarkand
+🏢 Org (ISP): AS34718 "IST TELEKOM" JV LLC
+🔢 ASN: AS34718
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 22
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1.13s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-04T11:52:49.629Z

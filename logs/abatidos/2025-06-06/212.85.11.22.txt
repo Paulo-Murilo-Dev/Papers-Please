@@ -1,0 +1,14 @@
+🧠 IP: 212.85.11.22
+🌐 País: BR
+📍 Região: São Paulo
+🏙️ Cidade: São Paulo
+🏢 Org (ISP): AS47583 Hostinger International Limited
+🔢 ASN: AS47583
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 21.89s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-06T11:03:55.999Z

@@ -1,0 +1,14 @@
+🧠 IP: 93.152.230.137
+🌐 País: FI
+📍 Região: Uusimaa
+🏙️ Cidade: Helsinki
+🏢 Org (ISP): AS210006 Shereverov Marat Ahmedovich
+🔢 ASN: AS210006
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 3389, 33387, 33380, 33391, 33392, 33394, 33382, 33396, 33381, 33385, 33393, 33398, 33399, 33383, 33395, 33390, 33389, 33386, 33388, 33384
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 7045.89s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-28T21:20:39.364Z

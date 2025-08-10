@@ -1,0 +1,14 @@
+🧠 IP: 116.98.167.53
+🌐 País: VN
+📍 Região: Da Nang
+🏙️ Cidade: Da Nang
+🏢 Org (ISP): AS24086 Viettel Corporation
+🔢 ASN: AS24086
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 22
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 2.20s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-12T06:48:21.315Z

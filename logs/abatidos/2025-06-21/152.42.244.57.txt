@@ -1,0 +1,14 @@
+🧠 IP: 152.42.244.57
+🌐 País: SG
+📍 Região: Singapore
+🏙️ Cidade: Singapore
+🏢 Org (ISP): AS14061 DigitalOcean, LLC
+🔢 ASN: AS14061
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 6000, 22
+📈 Requisições: 6
+⚖️ Pontuação: 105
+⏱️ Tempo até punição: 11907.93s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-21T14:14:07.607Z

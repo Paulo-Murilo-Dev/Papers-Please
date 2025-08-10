@@ -1,0 +1,14 @@
+🧠 IP: 209.38.18.212
+🌐 País: AU
+📍 Região: New South Wales
+🏙️ Cidade: Sydney
+🏢 Org (ISP): AS14061 DigitalOcean, LLC
+🔢 ASN: AS14061
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 5946, 5968, 5961, 5987, 5948, 5969, 5942, 5981, 3389, 5923, 5985, 5928, 5986, 5926, 5964, 5908, 5954, 5904, 5984, 5975
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1688.97s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-16T03:23:17.223Z

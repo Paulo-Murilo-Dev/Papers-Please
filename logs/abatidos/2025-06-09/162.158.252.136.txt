@@ -1,0 +1,14 @@
+🧠 IP: 162.158.252.136
+🌐 País: AO
+📍 Região: Luanda
+🏙️ Cidade: Luanda
+🏢 Org (ISP): AS14789 Cloudflare, Inc.
+🔢 ASN: AS14789
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1.88s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-09T06:41:23.669Z

@@ -1,0 +1,14 @@
+🧠 IP: 125.77.31.233
+🌐 País: CN
+📍 Região: Fujian
+🏙️ Cidade: Dongjie
+🏢 Org (ISP): AS133774 Fuzhou
+🔢 ASN: AS133774
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 3.57s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-09T06:42:14.991Z

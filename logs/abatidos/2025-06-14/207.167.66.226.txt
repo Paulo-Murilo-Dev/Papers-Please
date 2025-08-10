@@ -1,0 +1,14 @@
+🧠 IP: 207.167.66.226
+🌐 País: US
+📍 Região: Missouri
+🏙️ Cidade: Kansas City
+🏢 Org (ISP): AS399045 DediOutlet, LLC
+🔢 ASN: AS399045
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 14605, 45805, 31509, 23323, 40280, 28891, 38784, 23510, 16588, 24630, 35827, 19112, 28142, 11145, 30587, 37113, 17611, 54766, 20747, 59935
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 933.13s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-14T22:35:48.735Z

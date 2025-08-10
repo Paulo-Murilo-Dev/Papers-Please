@@ -1,0 +1,14 @@
+🧠 IP: 5.181.233.75
+🌐 País: CA
+📍 Região: Quebec
+🏙️ Cidade: Montréal
+🏢 Org (ISP): AS9009 M247 Europe SRL
+🔢 ASN: AS9009
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 7, 80, 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 5.21s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-09T03:01:50.340Z

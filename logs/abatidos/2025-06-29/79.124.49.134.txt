@@ -1,0 +1,14 @@
+🧠 IP: 79.124.49.134
+🌐 País: BG
+📍 Região: Sofia-Capital
+🏙️ Cidade: Sofia
+🏢 Org (ISP): AS50360 Tamatiya EOOD
+🔢 ASN: AS50360
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 2532, 4874, 2879, 3970, 1562, 3773, 4828, 2155, 1267, 3811, 2142, 3598, 3708, 2950, 4166, 3762, 4934, 3913, 4549, 3904
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1418.44s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-29T23:59:13.022Z

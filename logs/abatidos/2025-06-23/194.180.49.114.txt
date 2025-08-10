@@ -1,0 +1,14 @@
+🧠 IP: 194.180.49.114
+🌐 País: PL
+📍 Região: Mazovia
+🏙️ Cidade: Warsaw
+🏢 Org (ISP): AS201814 MEVSPACE sp. z o.o.
+🔢 ASN: AS201814
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 62829, 60294, 63196, 62307, 61540, 61544, 62739, 63815, 60991, 62955, 63087, 60462, 61855, 64387, 64648, 60207, 61791, 62954, 62381, 65188
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1830.16s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-23T00:05:45.085Z

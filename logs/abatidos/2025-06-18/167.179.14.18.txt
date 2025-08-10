@@ -1,0 +1,14 @@
+🧠 IP: 167.179.14.18
+🌐 País: KH
+📍 Região: Phnom Penh
+🏙️ Cidade: Phnom Penh
+🏢 Org (ISP): AS133200 NeocomISP Limited
+🔢 ASN: AS133200
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 22
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 21.11s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-18T01:09:24.026Z

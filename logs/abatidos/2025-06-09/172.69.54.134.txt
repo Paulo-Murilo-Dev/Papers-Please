@@ -1,0 +1,14 @@
+🧠 IP: 172.69.54.134
+🌐 País: PF
+📍 Região: Îles du Vent
+🏙️ Cidade: Faaa
+🏢 Org (ISP): AS13335 Cloudflare, Inc.
+🔢 ASN: AS13335
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1.84s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-09T06:40:51.300Z

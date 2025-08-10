@@ -1,0 +1,14 @@
+🧠 IP: 51.161.84.29
+🌐 País: CA
+📍 Região: Quebec
+🏙️ Cidade: Vaudreuil-Dorion
+🏢 Org (ISP): AS16276 OVH SAS
+🔢 ASN: AS16276
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 0.34s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-29T01:42:28.795Z

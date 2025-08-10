@@ -1,0 +1,14 @@
+🧠 IP: 212.132.115.107
+🌐 País: DE
+📍 Região: State of Berlin
+🏙️ Cidade: Berlin
+🏢 Org (ISP): AS8560 IONOS SE
+🔢 ASN: AS8560
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1.73s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-27T03:46:00.788Z

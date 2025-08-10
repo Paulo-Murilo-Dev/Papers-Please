@@ -1,0 +1,14 @@
+🧠 IP: 189.1.189.26
+🌐 País: BR
+📍 Região: São Paulo
+🏙️ Cidade: Limeira
+🏢 Org (ISP): AS28667 America-NET Ltda.
+🔢 ASN: AS28667
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 0.40s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-22T12:07:47.944Z

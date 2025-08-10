@@ -1,0 +1,14 @@
+🧠 IP: 107.173.151.157
+🌐 País: US
+📍 Região: California
+🏙️ Cidade: Los Angeles
+🏢 Org (ISP): AS36352 HostPapa
+🔢 ASN: AS36352
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1.06s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-21T13:31:49.132Z

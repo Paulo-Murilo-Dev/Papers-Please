@@ -1,0 +1,14 @@
+🧠 IP: 172.70.195.132
+🌐 País: TH
+📍 Região: Chiang Mai
+🏙️ Cidade: Chiang Mai
+🏢 Org (ISP): AS13335 Cloudflare, Inc.
+🔢 ASN: AS13335
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 3.45s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-09T06:41:28.093Z

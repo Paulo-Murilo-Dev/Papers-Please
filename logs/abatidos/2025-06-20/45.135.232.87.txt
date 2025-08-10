@@ -1,0 +1,14 @@
+🧠 IP: 45.135.232.87
+🌐 País: RU
+📍 Região: St.-Petersburg
+🏙️ Cidade: Saint Petersburg
+🏢 Org (ISP): AS198953 Proton66 OOO
+🔢 ASN: AS198953
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 181.01s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-20T13:12:59.480Z

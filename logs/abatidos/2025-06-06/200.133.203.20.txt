@@ -1,0 +1,14 @@
+🧠 IP: 200.133.203.20
+🌐 País: BR
+📍 Região: São Paulo
+🏙️ Cidade: Campinas
+🏢 Org (ISP): AS1916 Rede Nacional de Ensino e Pesquisa
+🔢 ASN: AS1916
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1.03s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-06T00:31:05.721Z

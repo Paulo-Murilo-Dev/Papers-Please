@@ -1,0 +1,14 @@
+🧠 IP: 52.207.202.187
+🌐 País: US
+📍 Região: Virginia
+🏙️ Cidade: Ashburn
+🏢 Org (ISP): AS14618 Amazon.com, Inc.
+🔢 ASN: AS14618
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 41812
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 102.54s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-08-10T20:22:29.317Z

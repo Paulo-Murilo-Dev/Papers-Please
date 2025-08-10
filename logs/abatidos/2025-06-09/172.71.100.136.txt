@@ -1,0 +1,14 @@
+🧠 IP: 172.71.100.136
+🌐 País: JP
+📍 Região: Osaka
+🏙️ Cidade: Osaka
+🏢 Org (ISP): AS13335 Cloudflare, Inc.
+🔢 ASN: AS13335
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1.93s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-09T06:40:59.944Z

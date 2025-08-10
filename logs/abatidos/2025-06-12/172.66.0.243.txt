@@ -1,0 +1,14 @@
+🧠 IP: 172.66.0.243
+🌐 País: US
+📍 Região: California
+🏙️ Cidade: San Francisco
+🏢 Org (ISP): AS13335 Cloudflare, Inc.
+🔢 ASN: AS13335
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 33260, 37406
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 269.86s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-12T17:15:54.577Z

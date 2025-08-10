@@ -1,0 +1,14 @@
+🧠 IP: 189.126.230.112
+🌐 País: BR
+📍 Região: Minas Gerais
+🏙️ Cidade: Jacutinga
+🏢 Org (ISP): AS28229 HARDONLINE LTDA
+🔢 ASN: AS28229
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 0.41s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-22T03:08:08.387Z

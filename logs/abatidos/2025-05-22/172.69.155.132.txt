@@ -1,0 +1,14 @@
+🧠 IP: 172.69.155.132
+🌐 País: PL
+📍 Região: Mazovia
+🏙️ Cidade: Warsaw
+🏢 Org (ISP): AS13335 Cloudflare, Inc.
+🔢 ASN: AS13335
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 92.81s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-22T14:12:29.559Z

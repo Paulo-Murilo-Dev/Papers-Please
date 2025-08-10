@@ -1,0 +1,14 @@
+🧠 IP: 91.199.212.80
+🌐 País: GB
+📍 Região: England
+🏙️ Cidade: Salford
+🏢 Org (ISP): AS48447 Sectigo Limited
+🔢 ASN: AS48447
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 60828, 37358
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 44400.15s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-24T15:48:03.188Z

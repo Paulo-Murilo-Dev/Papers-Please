@@ -1,0 +1,14 @@
+🧠 IP: 167.71.186.12
+🌐 País: US
+📍 Região: New Jersey
+🏙️ Cidade: Clifton
+🏢 Org (ISP): AS14061 DigitalOcean, LLC
+🔢 ASN: AS14061
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 6379, 23, 22, 8080, 5432
+📈 Requisições: 8
+⚖️ Pontuação: 115
+⏱️ Tempo até punição: 0.54s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-15T05:38:28.964Z

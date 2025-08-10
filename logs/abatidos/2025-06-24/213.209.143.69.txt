@@ -1,0 +1,14 @@
+🧠 IP: 213.209.143.69
+🌐 País: NL
+📍 Região: Limburg
+🏙️ Cidade: Kerkrade
+🏢 Org (ISP): AS214943 Railnet LLC
+🔢 ASN: AS214943
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 3384, 3399, 3388, 3397, 3396, 3391, 3395, 3383, 3382, 3398, 3390, 3387, 3389, 3385, 3386, 3393, 3381, 3394
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 15337.89s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-24T22:12:17.989Z

@@ -1,0 +1,14 @@
+🧠 IP: 100.76.159.26
+🌐 País: CGNAT
+📍 Região: Endereço interno de operadora
+🏙️ Cidade: -
+🏢 Org (ISP): IP compartilhado
+🔢 ASN: -
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 50576
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 5.74s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-22T12:37:04.281Z

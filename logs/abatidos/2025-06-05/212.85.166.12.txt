@@ -1,0 +1,14 @@
+🧠 IP: 212.85.166.12
+🌐 País: SI
+📍 Região: Ljubljana
+🏙️ Cidade: Ljubljana
+🏢 Org (ISP): AS3212 Telemach Slovenija d.o.o.
+🔢 ASN: AS3212
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 7547, 8291, 23
+📈 Requisições: 11
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 6098.48s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-05T02:41:48.917Z

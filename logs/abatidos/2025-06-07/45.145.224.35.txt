@@ -1,0 +1,14 @@
+🧠 IP: 45.145.224.35
+🌐 País: DE
+📍 Região: Hesse
+🏙️ Cidade: Frankfurt am Main
+🏢 Org (ISP): AS44486 Oliver Horscht is trading as "SYNLINQ"
+🔢 ASN: AS44486
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 22
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 0.85s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-07T08:35:16.041Z

@@ -1,0 +1,14 @@
+🧠 IP: 45.187.19.21
+🌐 País: BR
+📍 Região: Pernambuco
+🏙️ Cidade: Cabo de Santo Agostinho
+🏢 Org (ISP): AS269448 Gignet Telecom
+🔢 ASN: AS269448
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 38893, 60501, 24861, 10665, 59853, 56924, 24600, 18828, 1949, 33154, 264, 39853, 60006, 64347, 24519, 62190, 54690, 42655, 32015, 27672
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 19544.13s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-07-01T14:38:36.324Z

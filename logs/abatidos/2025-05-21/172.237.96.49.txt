@@ -1,0 +1,14 @@
+🧠 IP: 172.237.96.49
+🌐 País: GB
+📍 Região: England
+🏙️ Cidade: London
+🏢 Org (ISP): AS63949 Akamai Connected Cloud
+🔢 ASN: AS63949
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 23, 8888, 993, 445, 199, 143, 1025, 3389, 1720, 21
+📈 Requisições: 12
+⚖️ Pontuação: 105
+⏱️ Tempo até punição: 1.75s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-21T18:02:49.788Z

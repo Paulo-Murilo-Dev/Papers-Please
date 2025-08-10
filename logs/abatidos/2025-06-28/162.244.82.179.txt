@@ -1,0 +1,14 @@
+🧠 IP: 162.244.82.179
+🌐 País: US
+📍 Região: New York
+🏙️ Cidade: New York City
+🏢 Org (ISP): AS19624 Data Room, Inc
+🔢 ASN: AS19624
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 80, 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 5496.45s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-28T23:03:19.271Z

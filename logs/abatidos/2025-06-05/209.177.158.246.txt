@@ -1,0 +1,14 @@
+🧠 IP: 209.177.158.246
+🌐 País: US
+📍 Região: Illinois
+🏙️ Cidade: Chicago
+🏢 Org (ISP): AS36236 NetActuate, Inc
+🔢 ASN: AS36236
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 37514, 36308, 60056, 47386
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 63787.56s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-05T18:35:23.271Z

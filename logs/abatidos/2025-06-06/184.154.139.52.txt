@@ -1,0 +1,14 @@
+🧠 IP: 184.154.139.52
+🌐 País: US
+📍 Região: Illinois
+🏙️ Cidade: Arlington Heights
+🏢 Org (ISP): AS32475 Internap Holding LLC
+🔢 ASN: AS32475
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 80
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1.55s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-06T09:52:51.760Z

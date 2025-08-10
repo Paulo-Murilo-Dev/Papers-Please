@@ -1,0 +1,14 @@
+🧠 IP: 189.98.246.209
+🌐 País: BR
+📍 Região: São Paulo
+🏙️ Cidade: São Paulo
+🏢 Org (ISP): AS26599 TELEFÔNICA BRASIL S.A
+🔢 ASN: AS26599
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 20.99s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-23T22:49:38.704Z

@@ -1,0 +1,14 @@
+🧠 IP: 109.73.42.210
+🌐 País: RU
+📍 Região: Moscow
+🏙️ Cidade: Moscow
+🏢 Org (ISP): AS29226 JSC Mastertel
+🔢 ASN: AS29226
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 1127, 1057, 1350, 1868, 1106, 1644, 1565, 1458, 1122, 1596, 1262, 1473, 1208, 1991, 1947, 1606, 1970, 1726, 1806
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 11577.74s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-06T04:05:32.334Z

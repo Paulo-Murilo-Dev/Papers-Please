@@ -1,0 +1,14 @@
+🧠 IP: 13.38.249.225
+🌐 País: FR
+📍 Região: Île-de-France
+🏙️ Cidade: Paris
+🏢 Org (ISP): AS16509 Amazon.com, Inc.
+🔢 ASN: AS16509
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 80, 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 2.92s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-18T04:55:52.254Z

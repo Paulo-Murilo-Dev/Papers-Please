@@ -1,0 +1,14 @@
+🧠 IP: 66.249.71.206
+🌐 País: TW
+📍 Região: Taiwan
+🏙️ Cidade: Taichung
+🏢 Org (ISP): AS15169 Google LLC
+🔢 ASN: AS15169
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 62.39s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-19T13:43:55.068Z

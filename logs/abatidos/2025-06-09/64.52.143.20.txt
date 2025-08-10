@@ -1,0 +1,14 @@
+🧠 IP: 64.52.143.20
+🌐 País: US
+📍 Região: California
+🏙️ Cidade: Arcadia
+🏢 Org (ISP): AS26919 Giggle Fiber
+🔢 ASN: AS26919
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 3306
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 2.07s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-09T02:31:09.031Z

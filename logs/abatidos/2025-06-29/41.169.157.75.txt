@@ -1,0 +1,14 @@
+🧠 IP: 41.169.157.75
+🌐 País: ZA
+📍 Região: Gauteng
+🏙️ Cidade: Johannesburg
+🏢 Org (ISP): AS36937 Liquid Telecommunications South Africa (Pty) Ltd
+🔢 ASN: AS36937
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 22
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1.72s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-29T19:07:42.489Z

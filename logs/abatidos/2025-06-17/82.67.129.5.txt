@@ -1,0 +1,14 @@
+🧠 IP: 82.67.129.5
+🌐 País: FR
+📍 Região: Île-de-France
+🏙️ Cidade: Paris
+🏢 Org (ISP): AS12322 Free SAS
+🔢 ASN: AS12322
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 2222, 22, 2022
+📈 Requisições: 8
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1.45s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-17T04:47:32.220Z

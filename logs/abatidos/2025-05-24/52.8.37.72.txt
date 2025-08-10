@@ -1,0 +1,14 @@
+🧠 IP: 52.8.37.72
+🌐 País: US
+📍 Região: California
+🏙️ Cidade: San Jose
+🏢 Org (ISP): AS16509 Amazon.com, Inc.
+🔢 ASN: AS16509
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 372.34s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-24T10:35:20.882Z

@@ -1,0 +1,14 @@
+🧠 IP: 95.164.89.210
+🌐 País: DE
+📍 Região: Hesse
+🏙️ Cidade: Frankfurt am Main
+🏢 Org (ISP): AS44477 PQ HOSTING PLUS S.R.L.
+🔢 ASN: AS44477
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 21093, 32733, 4090, 62226, 4026, 24785, 25135, 35345, 25924, 26284, 25900, 25996, 25599, 25750, 25574, 25565, 35904, 40894, 9491, 26098
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1347.76s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-20T14:35:45.725Z

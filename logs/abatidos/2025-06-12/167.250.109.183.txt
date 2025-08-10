@@ -1,0 +1,14 @@
+🧠 IP: 167.250.109.183
+🌐 País: US
+📍 Região: New York
+🏙️ Cidade: New York City
+🏢 Org (ISP): AS394474 WhiteLabelColo
+🔢 ASN: AS394474
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 0.54s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-12T04:41:32.447Z

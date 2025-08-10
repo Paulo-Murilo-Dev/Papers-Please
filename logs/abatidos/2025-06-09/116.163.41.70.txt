@@ -1,0 +1,14 @@
+🧠 IP: 116.163.41.70
+🌐 País: CN
+📍 Região: Hunan
+🏙️ Cidade: Changsha
+🏢 Org (ISP): AS4837 CHINA UNICOM China169 Backbone
+🔢 ASN: AS4837
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 2.10s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-09T06:40:35.276Z

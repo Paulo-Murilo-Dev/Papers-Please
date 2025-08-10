@@ -1,0 +1,14 @@
+🧠 IP: 60.250.87.150
+🌐 País: TW
+📍 Região: Taipei
+🏙️ Cidade: Banqiao
+🏢 Org (ISP): AS3462 Data Communication Business Group
+🔢 ASN: AS3462
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 21
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 24.62s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-24T05:56:14.931Z

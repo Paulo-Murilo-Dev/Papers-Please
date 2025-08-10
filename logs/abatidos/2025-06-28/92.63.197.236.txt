@@ -1,0 +1,14 @@
+🧠 IP: 92.63.197.236
+🌐 País: NL
+📍 Região: North Holland
+🏙️ Cidade: Amsterdam
+🏢 Org (ISP): AS211736 FOP Dmytro Nedilskyi
+🔢 ASN: AS211736
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 18, 1211, 331, 1905, 1053, 239, 1223, 1086, 455, 1992, 1110, 1084, 187, 1980, 1422, 902, 675, 698, 919, 1275
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1798.77s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-28T04:49:58.487Z

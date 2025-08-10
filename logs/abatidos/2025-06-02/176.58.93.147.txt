@@ -1,0 +1,14 @@
+🧠 IP: 176.58.93.147
+🌐 País: NL
+📍 Região: Flevoland
+🏙️ Cidade: Lelystad
+🏢 Org (ISP): AS36236 NetActuate, Inc
+🔢 ASN: AS36236
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 57148, 58622, 45226, 50002
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 431410.13s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-02T23:12:38.689Z

@@ -1,0 +1,14 @@
+🧠 IP: 118.182.96.121
+🌐 País: CN
+📍 Região: Gansu
+🏙️ Cidade: Lanzhou
+🏢 Org (ISP): AS141998 China Telecom
+🔢 ASN: AS141998
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 22
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 921.02s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-08T08:08:35.546Z

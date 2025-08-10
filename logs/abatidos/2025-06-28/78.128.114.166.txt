@@ -1,0 +1,14 @@
+🧠 IP: 78.128.114.166
+🌐 País: BG
+📍 Região: Sofia-Capital
+🏙️ Cidade: Sofia
+🏢 Org (ISP): AS50360 Tamatiya EOOD
+🔢 ASN: AS50360
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 33398, 33356, 33151, 33065, 33122, 33523, 33544, 33699, 33824, 33445, 33960, 33226, 33649, 33470, 33369, 33802, 33724, 33746, 33240, 33321
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1318.21s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-28T23:55:23.965Z

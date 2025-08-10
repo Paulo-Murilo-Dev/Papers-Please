@@ -1,0 +1,14 @@
+🧠 IP: 138.246.253.24
+🌐 País: DE
+📍 Região: Bavaria
+🏙️ Cidade: Munich
+🏢 Org (ISP): AS12816 Leibniz-Rechenzentrum
+🔢 ASN: AS12816
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443, 80
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 81686.13s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-11T18:04:11.619Z

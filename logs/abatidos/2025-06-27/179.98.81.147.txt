@@ -1,0 +1,14 @@
+🧠 IP: 179.98.81.147
+🌐 País: BR
+📍 Região: São Paulo
+🏙️ Cidade: Pederneiras
+🏢 Org (ISP): AS27699 TELEFÔNICA BRASIL S.A
+🔢 ASN: AS27699
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 14040, 14041, 14042, 14043
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 10723.65s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-27T02:38:43.818Z

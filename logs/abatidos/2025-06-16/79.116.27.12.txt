@@ -1,0 +1,14 @@
+🧠 IP: 79.116.27.12
+🌐 País: ES
+📍 Região: Madrid
+🏙️ Cidade: Madrid
+🏢 Org (ISP): AS57269 DIGI SPAIN TELECOM S.L.
+🔢 ASN: AS57269
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 22
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 0.58s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-16T22:51:49.399Z

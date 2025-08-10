@@ -1,0 +1,14 @@
+🧠 IP: 83.222.191.178
+🌐 País: BG
+📍 Região: Sofia-Capital
+🏙️ Cidade: Sofia
+🏢 Org (ISP): AS204428 SS-Net
+🔢 ASN: AS204428
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 24650, 8893, 22113, 13339, 23383, 32712, 19059, 20386, 2400, 18442, 2898, 20753, 17638, 24210, 21546, 2063, 12010, 381, 12444, 32476
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1845.22s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-24T20:32:20.768Z

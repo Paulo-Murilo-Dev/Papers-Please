@@ -1,0 +1,14 @@
+🧠 IP: 94.131.9.72
+🌐 País: FR
+📍 Região: Île-de-France
+🏙️ Cidade: Paris
+🏢 Org (ISP): AS44477 PQ HOSTING PLUS S.R.L.
+🔢 ASN: AS44477
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 1050, 5566, 9070, 3050, 2233, 3443, 1199, 4050, 4080, 3663, 2070, 9876, 3040, 41414, 6644, 9030, 8030, 3366, 2211, 50505
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 35249.17s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-28T10:03:08.982Z

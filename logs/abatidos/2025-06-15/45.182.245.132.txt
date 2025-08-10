@@ -1,0 +1,14 @@
+🧠 IP: 45.182.245.132
+🌐 País: BR
+📍 Região: Bahia
+🏙️ Cidade: Paratinga
+🏢 Org (ISP): AS269244 DEAN MURILO GONCALVES OLIVEIRA - ME
+🔢 ASN: AS269244
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 80, 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1.08s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-15T21:11:22.238Z

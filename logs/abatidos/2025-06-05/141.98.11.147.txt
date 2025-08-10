@@ -1,0 +1,14 @@
+🧠 IP: 141.98.11.147
+🌐 País: LT
+📍 Região: Vilnius
+🏙️ Cidade: Vilnius
+🏢 Org (ISP): AS209605 UAB Host Baltic
+🔢 ASN: AS209605
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 80, 443, 56575
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 5331.65s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-05T20:48:38.262Z

@@ -1,0 +1,14 @@
+🧠 IP: 177.79.108.12
+🌐 País: BR
+📍 Região: São Paulo
+🏙️ Cidade: Campinas
+🏢 Org (ISP): AS26599 TELEFÔNICA BRASIL S.A
+🔢 ASN: AS26599
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 10.54s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-22T10:25:33.090Z

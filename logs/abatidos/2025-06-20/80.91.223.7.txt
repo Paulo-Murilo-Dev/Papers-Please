@@ -1,0 +1,14 @@
+🧠 IP: 80.91.223.7
+🌐 País: DE
+📍 Região: North Rhine-Westphalia
+🏙️ Cidade: Aachen
+🏢 Org (ISP): AS49581 Ferdinand Zink trading as Tube-Hosting
+🔢 ASN: AS49581
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 25565, 10321, 44999, 11212, 60221, 62653, 61149, 12876, 9220, 42389, 58602, 25610, 25924, 15980, 19291, 25585, 25612, 41222, 25560, 29868
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1329.96s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-20T14:46:14.602Z

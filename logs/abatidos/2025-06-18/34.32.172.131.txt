@@ -1,0 +1,14 @@
+🧠 IP: 34.32.172.131
+🌐 País: NL
+📍 Região: Groningen
+🏙️ Cidade: Groningen
+🏢 Org (ISP): AS396982 Google LLC
+🔢 ASN: AS396982
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1.47s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-18T08:16:13.607Z

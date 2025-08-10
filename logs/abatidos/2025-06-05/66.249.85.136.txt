@@ -1,0 +1,14 @@
+🧠 IP: 66.249.85.136
+🌐 País: CL
+📍 Região: Santiago Metropolitan
+🏙️ Cidade: Santiago
+🏢 Org (ISP): AS15169 Google LLC
+🔢 ASN: AS15169
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 138.23s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-05T13:30:10.371Z

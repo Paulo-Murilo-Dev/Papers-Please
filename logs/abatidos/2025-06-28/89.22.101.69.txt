@@ -1,0 +1,14 @@
+🧠 IP: 89.22.101.69
+🌐 País: DE
+📍 Região: North Rhine-Westphalia
+🏙️ Cidade: Dortmund
+🏢 Org (ISP): AS8648 dogado GmbH
+🔢 ASN: AS8648
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 80, 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1.75s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-28T02:55:39.622Z

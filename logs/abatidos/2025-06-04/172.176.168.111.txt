@@ -1,0 +1,14 @@
+🧠 IP: 172.176.168.111
+🌐 País: US
+📍 Região: Virginia
+🏙️ Cidade: Boydton
+🏢 Org (ISP): AS8075 Microsoft Corporation
+🔢 ASN: AS8075
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 22
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 0.55s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-04T13:32:32.043Z

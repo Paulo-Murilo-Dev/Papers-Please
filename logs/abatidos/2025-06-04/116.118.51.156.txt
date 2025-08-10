@@ -1,0 +1,14 @@
+🧠 IP: 116.118.51.156
+🌐 País: VN
+📍 Região: Ho Chi Minh
+🏙️ Cidade: Ho Chi Minh City
+🏢 Org (ISP): AS63760 AZDIGI Corporation
+🔢 ASN: AS63760
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 615, 3801, 2926, 1876, 469, 3851, 2774, 1616, 979, 190, 1029, 1362, 3540, 862, 3077, 3779, 2007, 439, 793, 740
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 19568.19s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-04T17:53:12.170Z

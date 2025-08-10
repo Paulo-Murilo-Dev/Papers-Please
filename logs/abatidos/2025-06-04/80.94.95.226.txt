@@ -1,0 +1,14 @@
+🧠 IP: 80.94.95.226
+🌐 País: RO
+📍 Região: Timiș County
+🏙️ Cidade: Timişoara
+🏢 Org (ISP): AS204428 SS-Net
+🔢 ASN: AS204428
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 8443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 575053.26s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-04T17:11:49.256Z

@@ -1,0 +1,14 @@
+🧠 IP: 120.226.37.166
+🌐 País: CN
+📍 Região: Hunan
+🏙️ Cidade: Changsha
+🏢 Org (ISP): AS56047 China Mobile communications corporation
+🔢 ASN: AS56047
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 2.23s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-09T06:40:28.084Z

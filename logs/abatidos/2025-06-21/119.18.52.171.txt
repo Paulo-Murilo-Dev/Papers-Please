@@ -1,0 +1,14 @@
+🧠 IP: 119.18.52.171
+🌐 País: IN
+📍 Região: Maharashtra
+🏙️ Cidade: Mumbai
+🏢 Org (ISP): AS394695 PDR
+🔢 ASN: AS394695
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 3306
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 2.28s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-21T14:16:34.109Z

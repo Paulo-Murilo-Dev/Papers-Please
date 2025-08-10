@@ -1,0 +1,14 @@
+🧠 IP: 1.226.83.51
+🌐 País: KR
+📍 Região: Seoul
+🏙️ Cidade: Seoul
+🏢 Org (ISP): AS9318 SK Broadband Co Ltd
+🔢 ASN: AS9318
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 22, 2222
+📈 Requisições: 8
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 17.81s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-27T06:45:05.422Z

@@ -1,0 +1,14 @@
+🧠 IP: 206.204.31.22
+🌐 País: US
+📍 Região: California
+🏙️ Cidade: San Francisco
+🏢 Org (ISP): AS207990 HostRoyale Technologies Pvt Ltd
+🔢 ASN: AS207990
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 0.96s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-30T22:42:34.994Z

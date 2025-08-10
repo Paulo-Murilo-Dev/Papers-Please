@@ -1,0 +1,14 @@
+🧠 IP: 176.58.92.144
+🌐 País: GB
+📍 Região: England
+🏙️ Cidade: London
+🏢 Org (ISP): AS36236 NetActuate, Inc
+🔢 ASN: AS36236
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 41916, 51674, 57228, 39426
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 51653.60s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-06T16:06:04.265Z

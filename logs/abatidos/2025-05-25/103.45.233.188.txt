@@ -1,0 +1,14 @@
+🧠 IP: 103.45.233.188
+🌐 País: VN
+📍 Região: Hanoi
+🏙️ Cidade: Hanoi
+🏢 Org (ISP): AS135921 Maxserver Company Limited
+🔢 ASN: AS135921
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 447, 625, 842, 262, 761, 895, 490, 746, 908, 24, 122, 449, 419, 263, 630, 766, 111, 610, 351, 821
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 29260.76s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-25T20:39:06.748Z

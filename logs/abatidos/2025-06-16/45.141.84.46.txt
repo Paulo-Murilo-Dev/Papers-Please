@@ -1,0 +1,14 @@
+🧠 IP: 45.141.84.46
+🌐 País: RU
+📍 Região: St.-Petersburg
+🏙️ Cidade: Saint Petersburg
+🏢 Org (ISP): AS206728 Media Land LLC
+🔢 ASN: AS206728
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 23.25s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-16T17:45:08.245Z

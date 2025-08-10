@@ -1,0 +1,14 @@
+🧠 IP: 186.219.147.169
+🌐 País: BR
+📍 Região: São Paulo
+🏙️ Cidade: São João da Boa Vista
+🏢 Org (ISP): AS262992 CONEXAO SERVICOS DE COMUNICACAO MULTIMIDIA LTDA-ME
+🔢 ASN: AS262992
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 0.93s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-24T10:45:09.782Z

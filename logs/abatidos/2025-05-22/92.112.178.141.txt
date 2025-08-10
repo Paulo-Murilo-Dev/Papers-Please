@@ -1,0 +1,14 @@
+🧠 IP: 92.112.178.141
+🌐 País: BR
+📍 Região: São Paulo
+🏙️ Cidade: São Paulo
+🏢 Org (ISP): AS47583 Hostinger International Limited
+🔢 ASN: AS47583
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 49480, 40954, 42070, 49154, 50992, 43350, 55106, 44168, 42866, 46410, 59838, 40522, 44382, 43254, 49660, 44552, 44476, 58132, 59748, 59510
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 0.48s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-22T12:35:43.721Z

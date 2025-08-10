@@ -1,0 +1,14 @@
+🧠 IP: 59.97.181.167
+🌐 País: IN
+📍 Região: Gujarat
+🏙️ Cidade: Jasdan
+🏢 Org (ISP): AS9829 National Internet Backbone
+🔢 ASN: AS9829
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 23
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 2105.53s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-06T06:44:46.855Z

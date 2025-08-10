@@ -1,0 +1,14 @@
+🧠 IP: 116.118.45.158
+🌐 País: VN
+📍 Região: Ho Chi Minh
+🏙️ Cidade: Ho Chi Minh City
+🏢 Org (ISP): AS135951 Webico Company Limited
+🔢 ASN: AS135951
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 34349, 34348, 14144, 22227, 62634, 44450, 42432, 12124, 42431, 34344, 44448, 22224, 34347, 34350, 11223, 11291, 11239, 11252, 11224
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 27686.01s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-06T08:21:45.326Z

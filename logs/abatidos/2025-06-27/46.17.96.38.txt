@@ -1,0 +1,14 @@
+🧠 IP: 46.17.96.38
+🌐 País: NL
+📍 Região: North Holland
+🏙️ Cidade: Amsterdam
+🏢 Org (ISP): AS57043 HOSTKEY B.V.
+🔢 ASN: AS57043
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 9189, 63079, 2563, 626, 2000, 9761, 8102, 10432, 9210, 50021, 8859, 55553, 3091, 50025, 7005, 8806, 56025, 8871, 50008, 8097
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 494.61s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-27T07:40:46.203Z

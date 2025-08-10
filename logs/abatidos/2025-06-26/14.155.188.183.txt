@@ -1,0 +1,14 @@
+🧠 IP: 14.155.188.183
+🌐 País: CN
+📍 Região: Guangdong
+🏙️ Cidade: Shenzhen
+🏢 Org (ISP): AS4134 CHINANET-BACKBONE
+🔢 ASN: AS4134
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 23
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 45610.09s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-26T13:38:16.396Z

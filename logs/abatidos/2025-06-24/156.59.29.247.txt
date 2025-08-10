@@ -1,0 +1,14 @@
+🧠 IP: 156.59.29.247
+🌐 País: JP
+📍 Região: Tokyo
+🏙️ Cidade: Tokyo
+🏢 Org (ISP): AS21859 Zenlayer Inc
+🔢 ASN: AS21859
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 80, 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 104.61s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-24T21:04:58.953Z

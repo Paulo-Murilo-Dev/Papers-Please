@@ -1,0 +1,14 @@
+🧠 IP: 95.177.163.4
+🌐 País: SA
+📍 Região: Riyadh Region
+🏙️ Cidade: Riyadh
+🏢 Org (ISP): AS201771 ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD
+🔢 ASN: AS201771
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1.41s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-28T15:34:41.398Z

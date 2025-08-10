@@ -1,0 +1,14 @@
+🧠 IP: 45.252.249.223
+🌐 País: VN
+📍 Região: Ho Chi Minh
+🏙️ Cidade: Ho Chi Minh City
+🏢 Org (ISP): AS63760 AZDIGI Corporation
+🔢 ASN: AS63760
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 8450, 14387, 13808, 11707, 14248, 12704, 11031, 11226, 11378, 12380, 11927, 10897, 10313, 14309, 14159, 12527, 10929, 11988, 10460, 14790
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 57422.17s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-04T17:12:15.261Z

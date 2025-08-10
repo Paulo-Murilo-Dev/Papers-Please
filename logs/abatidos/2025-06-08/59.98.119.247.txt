@@ -1,0 +1,14 @@
+🧠 IP: 59.98.119.247
+🌐 País: IN
+📍 Região: Maharashtra
+🏙️ Cidade: Shirdi
+🏢 Org (ISP): AS9829 National Internet Backbone
+🔢 ASN: AS9829
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 23
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 2616.97s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-08T02:08:18.848Z

@@ -1,0 +1,14 @@
+🧠 IP: 182.201.240.235
+🌐 País: CN
+📍 Região: Liaoning
+🏙️ Cidade: Dalian
+🏢 Org (ISP): AS134762 CHINANET Liaoning province Dalian MAN network
+🔢 ASN: AS134762
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 2.28s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-09T06:41:39.592Z

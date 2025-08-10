@@ -1,0 +1,14 @@
+🧠 IP: 66.249.88.46
+🌐 País: US
+📍 Região: Georgia
+🏙️ Cidade: Atlanta
+🏢 Org (ISP): AS15169 Google LLC
+🔢 ASN: AS15169
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 0.64s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-07-01T02:55:59.687Z

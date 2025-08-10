@@ -1,0 +1,14 @@
+🧠 IP: 66.102.8.160
+🌐 País: US
+📍 Região: South Carolina
+🏙️ Cidade: Moncks Corner
+🏢 Org (ISP): AS15169 Google LLC
+🔢 ASN: AS15169
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 0.53s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-10T01:54:38.335Z

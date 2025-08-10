@@ -1,0 +1,14 @@
+🧠 IP: 45.131.108.73
+🌐 País: DE
+📍 Região: North Rhine-Westphalia
+🏙️ Cidade: Alsdorf
+🏢 Org (ISP): AS49581 Ferdinand Zink trading as Tube-Hosting
+🔢 ASN: AS49581
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 25574, 25568, 30067, 25580, 35575, 26080, 25597, 25666, 25924, 19291, 26343, 25852, 25768, 25918, 25639, 25888, 25594, 25029, 25505, 25894
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 172.18s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-20T14:10:22.794Z

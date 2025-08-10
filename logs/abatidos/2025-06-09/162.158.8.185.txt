@@ -1,0 +1,14 @@
+🧠 IP: 162.158.8.185
+🌐 País: QA
+📍 Região: Baladīyat ad Dawḩah
+🏙️ Cidade: Doha
+🏢 Org (ISP): AS13335 Cloudflare, Inc.
+🔢 ASN: AS13335
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1.99s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-09T06:40:27.556Z

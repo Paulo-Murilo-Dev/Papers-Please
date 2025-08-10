@@ -1,0 +1,14 @@
+🧠 IP: 95.217.2.165
+🌐 País: FI
+📍 Região: Uusimaa
+🏙️ Cidade: Helsinki
+🏢 Org (ISP): AS24940 Hetzner Online GmbH
+🔢 ASN: AS24940
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 35710, 47360, 44790, 41502
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 78739.55s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-05T23:15:48.854Z

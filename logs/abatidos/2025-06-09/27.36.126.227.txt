@@ -1,0 +1,14 @@
+🧠 IP: 27.36.126.227
+🌐 País: CN
+📍 Região: Guangdong
+🏙️ Cidade: Foshan
+🏢 Org (ISP): AS136959 China Unicom Guangdong IP network
+🔢 ASN: AS136959
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 2.13s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-09T06:41:35.380Z

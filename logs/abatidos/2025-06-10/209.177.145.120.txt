@@ -1,0 +1,14 @@
+🧠 IP: 209.177.145.120
+🌐 País: US
+📍 Região: New York
+🏙️ Cidade: New York City
+🏢 Org (ISP): AS36236 NetActuate, Inc
+🔢 ASN: AS36236
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 41480, 33628, 44264, 34084
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 5283.91s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-10T19:20:04.709Z

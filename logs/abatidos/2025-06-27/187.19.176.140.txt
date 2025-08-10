@@ -1,0 +1,14 @@
+🧠 IP: 187.19.176.140
+🌐 País: BR
+📍 Região: Paraíba
+🏙️ Cidade: João Pessoa
+🏢 Org (ISP): AS28126 BRISANET SERVICOS DE TELECOMUNICACOES S.A
+🔢 ASN: AS28126
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 22
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 0.75s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-27T10:57:50.557Z

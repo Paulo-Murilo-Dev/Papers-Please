@@ -1,0 +1,14 @@
+🧠 IP: 212.22.93.114
+🌐 País: RU
+📍 Região: Moscow
+🏙️ Cidade: Moscow
+🏢 Org (ISP): AS208102 Individual Entrepreneur Rylov Roman Yrevich
+🔢 ASN: AS208102
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 22
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 63.43s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-23T08:17:44.982Z

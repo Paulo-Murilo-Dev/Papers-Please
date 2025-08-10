@@ -1,0 +1,14 @@
+🧠 IP: 103.90.227.132
+🌐 País: VN
+📍 Região: Ho Chi Minh
+🏙️ Cidade: Ho Chi Minh City
+🏢 Org (ISP): AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+🔢 ASN: AS135905
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 5904, 3389, 5900, 5999, 5953, 5929, 5920, 5952, 5916, 5951, 5998, 5922, 5982, 5957, 5947
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 34766.33s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-06T00:22:34.843Z

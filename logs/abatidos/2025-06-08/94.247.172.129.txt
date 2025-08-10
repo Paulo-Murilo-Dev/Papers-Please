@@ -1,0 +1,14 @@
+🧠 IP: 94.247.172.129
+🌐 País: SE
+📍 Região: Halland
+🏙️ Cidade: Falkenberg
+🏢 Org (ISP): AS42708 GleSYS AB
+🔢 ASN: AS42708
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443, 80
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 54570.32s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-08T03:04:22.694Z

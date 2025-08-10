@@ -1,0 +1,14 @@
+🧠 IP: 27.128.218.237
+🌐 País: CN
+📍 Região: Hebei
+🏙️ Cidade: Shijiazhuang
+🏢 Org (ISP): AS58539 Langfang,Hebei province, P.R.China
+🔢 ASN: AS58539
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 2.24s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-09T06:41:11.690Z

@@ -1,0 +1,14 @@
+🧠 IP: 172.68.184.238
+🌐 País: ZA
+📍 Região: Western Cape
+🏙️ Cidade: Cape Town
+🏢 Org (ISP): AS13335 Cloudflare, Inc.
+🔢 ASN: AS13335
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 2.12s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-09T06:37:06.314Z

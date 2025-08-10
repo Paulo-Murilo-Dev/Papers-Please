@@ -1,0 +1,14 @@
+🧠 IP: 103.84.155.178
+🌐 País: JP
+📍 Região: Tokyo
+🏙️ Cidade: Tokyo
+🏢 Org (ISP): AS36236 NetActuate, Inc
+🔢 ASN: AS36236
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 58106, 47132, 42922, 60080
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 45894.57s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-05T14:39:55.706Z

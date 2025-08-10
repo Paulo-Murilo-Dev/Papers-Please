@@ -1,0 +1,14 @@
+🧠 IP: 77.83.203.57
+🌐 País: TR
+📍 Região: Istanbul
+🏙️ Cidade: Istanbul
+🏢 Org (ISP): AS44620 Netlen Internet Hizmetleri Ltd. Sti.
+🔢 ASN: AS44620
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 22
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 0.45s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-16T18:03:33.668Z

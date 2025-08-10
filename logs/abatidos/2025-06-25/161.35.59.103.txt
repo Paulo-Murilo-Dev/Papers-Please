@@ -1,0 +1,14 @@
+🧠 IP: 161.35.59.103
+🌐 País: US
+📍 Região: New Jersey
+🏙️ Cidade: North Bergen
+🏢 Org (ISP): AS14061 DigitalOcean, LLC
+🔢 ASN: AS14061
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1.34s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-25T21:06:49.378Z

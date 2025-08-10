@@ -1,0 +1,14 @@
+🧠 IP: 45.90.61.38
+🌐 País: PT
+📍 Região: Lisbon
+🏙️ Cidade: Charneca
+🏢 Org (ISP): AS203020 HostRoyale Technologies Pvt Ltd
+🔢 ASN: AS203020
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 31.34s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-21T06:21:54.152Z

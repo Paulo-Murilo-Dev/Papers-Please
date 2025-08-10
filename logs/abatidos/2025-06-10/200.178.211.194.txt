@@ -1,0 +1,14 @@
+🧠 IP: 200.178.211.194
+🌐 País: BR
+📍 Região: São Paulo
+🏙️ Cidade: Campinas
+🏢 Org (ISP): AS4230 CLARO S.A.
+🔢 ASN: AS4230
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 0.35s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-10T13:44:49.236Z

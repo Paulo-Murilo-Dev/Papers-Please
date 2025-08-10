@@ -1,0 +1,14 @@
+🧠 IP: 178.151.245.162
+🌐 País: UA
+📍 Região: Kyiv City
+🏙️ Cidade: Kyiv
+🏢 Org (ISP): AS13188 CONTENT DELIVERY NETWORK LTD
+🔢 ASN: AS13188
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 18.50s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-13T08:43:34.856Z

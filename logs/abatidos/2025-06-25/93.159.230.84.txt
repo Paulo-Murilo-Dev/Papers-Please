@@ -1,0 +1,14 @@
+🧠 IP: 93.159.230.84
+🌐 País: RU
+📍 Região: Moscow
+🏙️ Cidade: Moscow
+🏢 Org (ISP): AS200107 Kaspersky Lab Switzerland GmbH
+🔢 ASN: AS200107
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 47.34s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-25T07:40:17.151Z

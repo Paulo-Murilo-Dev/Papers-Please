@@ -1,0 +1,14 @@
+🧠 IP: 86.54.25.156
+🌐 País: LV
+📍 Região: Riga
+🏙️ Cidade: Riga
+🏢 Org (ISP): AS210006 Shereverov Marat Ahmedovich
+🔢 ASN: AS210006
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 33534, 33657, 33746, 33850, 33638, 33328, 33740, 33467, 33688, 33711, 33822, 33895, 33508, 33466, 33355, 33815, 33660, 33427, 33575, 33342
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 5121.45s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-25T11:06:15.602Z

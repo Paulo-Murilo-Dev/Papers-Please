@@ -1,0 +1,14 @@
+🧠 IP: 78.83.184.161
+🌐 País: BG
+📍 Região: Varna
+🏙️ Cidade: Varna
+🏢 Org (ISP): AS29580 A1 Bulgaria EAD
+🔢 ASN: AS29580
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 22
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 0.42s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-17T01:24:47.165Z

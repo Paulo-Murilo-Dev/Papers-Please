@@ -1,0 +1,14 @@
+🧠 IP: 2.176.236.37
+🌐 País: IR
+📍 Região: Fars
+🏙️ Cidade: Shiraz
+🏢 Org (ISP): AS58224 Iran Telecommunication Company PJS
+🔢 ASN: AS58224
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 22
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 0.86s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-07T21:38:17.114Z

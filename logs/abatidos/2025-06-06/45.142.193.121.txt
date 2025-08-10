@@ -1,0 +1,14 @@
+🧠 IP: 45.142.193.121
+🌐 País: NL
+📍 Região: Flevoland
+🏙️ Cidade: Lelystad
+🏢 Org (ISP): AS214295 SKYNET NETWORK LTD
+🔢 ASN: AS214295
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443, 415, 429, 440, 414, 426, 439, 416, 410, 4333, 4443, 430, 409, 405, 417, 411, 418, 428
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 6829.41s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-06T21:12:41.182Z

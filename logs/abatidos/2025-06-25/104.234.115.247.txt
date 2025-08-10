@@ -1,0 +1,14 @@
+🧠 IP: 104.234.115.247
+🌐 País: US
+📍 Região: Virginia
+🏙️ Cidade: Ashburn
+🏢 Org (ISP): AS396982 Google LLC
+🔢 ASN: AS396982
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 22
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 0.93s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-25T13:08:34.641Z

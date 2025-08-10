@@ -1,0 +1,14 @@
+🧠 IP: 5.188.206.22
+🌐 País: BG
+📍 Região: Sofia-Capital
+🏙️ Cidade: Sofia
+🏢 Org (ISP): AS200391 KREZ 999 EOOD
+🔢 ASN: AS200391
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 63963, 60821, 49869, 60996, 64275, 54511, 55017, 63136, 62666, 63414, 62437, 50389, 54483, 50637, 55933, 64544, 53814, 59115, 56764, 64851
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 2150.39s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-28T23:30:39.914Z

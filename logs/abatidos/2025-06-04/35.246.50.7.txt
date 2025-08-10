@@ -1,0 +1,14 @@
+🧠 IP: 35.246.50.7
+🌐 País: GB
+📍 Região: England
+🏙️ Cidade: London
+🏢 Org (ISP): AS396982 Google LLC
+🔢 ASN: AS396982
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 21
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 32090.48s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-04T17:52:02.875Z

@@ -1,0 +1,14 @@
+🧠 IP: 204.188.197.118
+🌐 País: US
+📍 Região: Illinois
+🏙️ Cidade: Chicago
+🏢 Org (ISP): AS46844 Sharktech
+🔢 ASN: AS46844
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 80
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 6969.51s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-11T17:10:49.346Z

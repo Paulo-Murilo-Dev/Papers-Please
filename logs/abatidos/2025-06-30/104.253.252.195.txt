@@ -1,0 +1,14 @@
+🧠 IP: 104.253.252.195
+🌐 País: US
+📍 Região: California
+🏙️ Cidade: Los Angeles
+🏢 Org (ISP): AS40676 Psychz Networks
+🔢 ASN: AS40676
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1.12s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-30T22:42:00.938Z

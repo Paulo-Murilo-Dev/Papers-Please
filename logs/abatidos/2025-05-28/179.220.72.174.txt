@@ -1,0 +1,14 @@
+🧠 IP: 179.220.72.174
+🌐 País: BR
+📍 Região: Mato Grosso
+🏙️ Cidade: Rondonópolis
+🏢 Org (ISP): AS28573 Claro NXT Telecomunicacoes Ltda
+🔢 ASN: AS28573
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 22
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 0.48s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-28T14:49:26.555Z

@@ -1,0 +1,14 @@
+🧠 IP: 2.56.126.173
+🌐 País: FR
+📍 Região: Île-de-France
+🏙️ Cidade: Paris
+🏢 Org (ISP): AS44477 PQ HOSTING PLUS S.R.L.
+🔢 ASN: AS44477
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 6700, 3900, 7900, 3888, 5858, 4500, 6600, 8200, 6996, 6556, 4747, 5656, 6300, 9600, 8800, 2900, 3800, 5757, 7979, 2333
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 43845.99s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-27T01:07:49.755Z

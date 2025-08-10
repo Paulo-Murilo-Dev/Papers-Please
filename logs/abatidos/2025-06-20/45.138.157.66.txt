@@ -1,0 +1,14 @@
+🧠 IP: 45.138.157.66
+🌐 País: RU
+📍 Região: Moscow
+🏙️ Cidade: Moscow
+🏢 Org (ISP): AS33993 UFO Hosting LLC
+🔢 ASN: AS33993
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 25565, 26915, 25632, 26179, 25595, 25575, 2546, 25599, 25570, 25593, 25584, 25924, 25698, 4006, 27039, 24757, 25572, 25784, 25720, 25744
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1553.27s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-20T14:39:47.741Z

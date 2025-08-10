@@ -1,0 +1,14 @@
+🧠 IP: 18.143.235.216
+🌐 País: SG
+📍 Região: Singapore
+🏙️ Cidade: Singapore
+🏢 Org (ISP): AS16509 Amazon.com, Inc.
+🔢 ASN: AS16509
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 0.61s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-11T15:26:12.269Z

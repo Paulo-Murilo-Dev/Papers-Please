@@ -1,0 +1,14 @@
+🧠 IP: 199.38.182.118
+🌐 País: US
+📍 Região: Illinois
+🏙️ Cidade: Chicago
+🏢 Org (ISP): AS36236 NetActuate, Inc
+🔢 ASN: AS36236
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 58200, 37622, 47788, 41916
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 515031.30s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-04T01:55:48.876Z

@@ -1,0 +1,14 @@
+🧠 IP: 45.141.85.137
+🌐 País: RU
+📍 Região: Moscow
+🏙️ Cidade: Moscow
+🏢 Org (ISP): AS206728 Media Land LLC
+🔢 ASN: AS206728
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 445, 57366, 700, 3350, 14389, 2392, 51366, 599, 139, 800, 10389, 3380, 77, 499, 299, 6390, 55678, 1026, 33, 6155
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 7072.17s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-07-01T01:32:55.355Z

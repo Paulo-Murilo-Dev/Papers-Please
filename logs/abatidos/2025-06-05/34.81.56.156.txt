@@ -1,0 +1,14 @@
+🧠 IP: 34.81.56.156
+🌐 País: TW
+📍 Região: Taiwan
+🏙️ Cidade: Taipei
+🏢 Org (ISP): AS396982 Google LLC
+🔢 ASN: AS396982
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 21
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 37956.36s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-05T22:28:57.420Z

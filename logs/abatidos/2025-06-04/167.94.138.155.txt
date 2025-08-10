@@ -1,0 +1,14 @@
+🧠 IP: 167.94.138.155
+🌐 País: US
+📍 Região: Illinois
+🏙️ Cidade: Chicago
+🏢 Org (ISP): AS398324 Censys, Inc.
+🔢 ASN: AS398324
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 5938, 1962, 44819, 4730, 1433, 2761, 49502, 5672, 831, 8636, 14000, 22222, 10002, 10001, 3306, 5432, 20001, 443, 3390, 50995
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 174418.85s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-04T21:14:34.935Z

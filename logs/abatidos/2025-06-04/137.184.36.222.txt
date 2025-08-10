@@ -1,0 +1,14 @@
+🧠 IP: 137.184.36.222
+🌐 País: US
+📍 Região: California
+🏙️ Cidade: Santa Clara
+🏢 Org (ISP): AS14061 DigitalOcean, LLC
+🔢 ASN: AS14061
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 21, 27017, 445, 3306, 3389, 443, 22
+📈 Requisições: 12
+⚖️ Pontuação: 105
+⏱️ Tempo até punição: 5180.14s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-04T12:10:37.670Z

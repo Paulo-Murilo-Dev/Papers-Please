@@ -1,0 +1,14 @@
+🧠 IP: 100.91.228.45
+🌐 País: CGNAT
+📍 Região: Endereço interno de operadora
+🏙️ Cidade: -
+🏢 Org (ISP): IP compartilhado
+🔢 ASN: -
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 22
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 0.11s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-12T22:39:34.966Z

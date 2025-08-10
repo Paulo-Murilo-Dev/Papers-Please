@@ -1,0 +1,14 @@
+🧠 IP: 172.245.222.109
+🌐 País: US
+📍 Região: California
+🏙️ Cidade: Los Angeles
+🏢 Org (ISP): AS36352 HostPapa
+🔢 ASN: AS36352
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 3.25s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-20T17:05:29.728Z

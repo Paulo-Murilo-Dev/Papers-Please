@@ -1,0 +1,14 @@
+🧠 IP: 49.13.204.141
+🌐 País: DE
+📍 Região: Bavaria
+🏙️ Cidade: Nürnberg
+🏢 Org (ISP): AS24940 Hetzner Online GmbH
+🔢 ASN: AS24940
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 34490, 51734, 50788, 56114, 43548
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 591269.68s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-04T19:09:20.972Z

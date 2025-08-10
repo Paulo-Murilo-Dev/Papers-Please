@@ -1,0 +1,14 @@
+🧠 IP: 40.84.173.39
+🌐 País: US
+📍 Região: Texas
+🏙️ Cidade: San Antonio
+🏢 Org (ISP): AS8075 Microsoft Corporation
+🔢 ASN: AS8075
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 33.20s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-30T12:13:29.205Z

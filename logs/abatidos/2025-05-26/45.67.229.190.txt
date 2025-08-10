@@ -1,0 +1,14 @@
+🧠 IP: 45.67.229.190
+🌐 País: MD
+📍 Região: Chișinău Municipality
+🏙️ Cidade: Chisinau
+🏢 Org (ISP): AS44477 PQ HOSTING PLUS S.R.L.
+🔢 ASN: AS44477
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 860, 690, 290, 320, 330, 355, 9999, 720, 5000, 789, 344, 808, 444, 580, 650, 951, 680, 222, 157, 399
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 17401.92s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-26T17:57:00.194Z

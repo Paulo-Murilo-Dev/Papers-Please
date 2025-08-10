@@ -1,0 +1,14 @@
+🧠 IP: 180.149.125.202
+🌐 País: MN
+📍 Região: Ulaanbaatar
+🏙️ Cidade: Ulan Bator
+🏢 Org (ISP): AS45204 GEMNET LLC
+🔢 ASN: AS45204
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 8083, 2083, 25463, 8443, 25900, 8880, 9000, 80, 8624, 10001, 8622, 81, 8630, 88, 2095, 8623, 17000, 6878, 8628, 8625
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 19988.77s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-22T07:16:36.984Z

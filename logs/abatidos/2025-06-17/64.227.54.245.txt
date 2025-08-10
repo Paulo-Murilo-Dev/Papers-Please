@@ -1,0 +1,14 @@
+🧠 IP: 64.227.54.245
+🌐 País: US
+📍 Região: California
+🏙️ Cidade: Santa Clara
+🏢 Org (ISP): AS14061 DigitalOcean, LLC
+🔢 ASN: AS14061
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 80
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 7422.63s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-17T20:56:18.477Z

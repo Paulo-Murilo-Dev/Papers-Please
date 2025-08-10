@@ -1,0 +1,14 @@
+🧠 IP: 162.142.125.88
+🌐 País: US
+📍 Região: Illinois
+🏙️ Cidade: Chicago
+🏢 Org (ISP): AS398324 Censys, Inc.
+🔢 ASN: AS398324
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 591, 40000, 18245, 4840, 6697, 20548, 2052, 61616, 5683, 27017, 16992, 250, 11112, 9301, 2375, 4841, 6009, 502, 2000, 3389
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 589715.10s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-04T20:09:32.451Z

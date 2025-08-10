@@ -1,0 +1,14 @@
+🧠 IP: 43.245.49.83
+🌐 País: SG
+📍 Região: Singapore
+🏙️ Cidade: Singapore
+🏢 Org (ISP): AS36236 NetActuate, Inc
+🔢 ASN: AS36236
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 34730, 55052, 45110, 41036
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 418209.43s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-02T23:07:29.313Z

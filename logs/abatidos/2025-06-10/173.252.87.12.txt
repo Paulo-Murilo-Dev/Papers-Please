@@ -1,0 +1,14 @@
+🧠 IP: 173.252.87.12
+🌐 País: US
+📍 Região: Texas
+🏙️ Cidade: Fort Worth
+🏢 Org (ISP): AS32934 Facebook, Inc.
+🔢 ASN: AS32934
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1.53s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-10T20:37:46.663Z

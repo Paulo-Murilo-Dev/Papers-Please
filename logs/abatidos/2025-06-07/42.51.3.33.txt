@@ -1,0 +1,14 @@
+🧠 IP: 42.51.3.33
+🌐 País: CN
+📍 Região: Henan
+🏙️ Cidade: Zhengzhou
+🏢 Org (ISP): AS56005 Zhengzhou Fastidc Technology Co.,Ltd.
+🔢 ASN: AS56005
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 22
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 0.90s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-07T10:08:56.021Z

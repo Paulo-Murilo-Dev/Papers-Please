@@ -1,0 +1,14 @@
+🧠 IP: 138.0.103.220
+🌐 País: BR
+📍 Região: Minas Gerais
+🏙️ Cidade: Poços de Caldas
+🏢 Org (ISP): AS28220 Alares Cabo Servicos de Telecomunicacoes S.A.
+🔢 ASN: AS28220
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443, 80
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 0.71s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-28T22:02:33.784Z

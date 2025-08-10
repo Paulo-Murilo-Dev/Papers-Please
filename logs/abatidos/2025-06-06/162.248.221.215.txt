@@ -1,0 +1,14 @@
+🧠 IP: 162.248.221.215
+🌐 País: CA
+📍 Região: Ontario
+🏙️ Cidade: Toronto
+🏢 Org (ISP): AS36236 NetActuate, Inc
+🔢 ASN: AS36236
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 46946, 44144, 53242, 41766
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 19554.64s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-06T17:43:54.236Z

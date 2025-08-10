@@ -1,0 +1,14 @@
+🧠 IP: 209.85.214.198
+🌐 País: US
+📍 Região: Oregon
+🏙️ Cidade: The Dalles
+🏢 Org (ISP): AS15169 Google LLC
+🔢 ASN: AS15169
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 25
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 23645.51s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-07T08:14:33.035Z

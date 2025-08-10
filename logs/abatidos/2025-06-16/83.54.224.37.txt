@@ -1,0 +1,14 @@
+🧠 IP: 83.54.224.37
+🌐 País: ES
+📍 Região: Catalonia
+🏙️ Cidade: Barcelona
+🏢 Org (ISP): AS3352 TELEFONICA DE ESPANA S.A.U.
+🔢 ASN: AS3352
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 3.73s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-16T08:21:35.030Z

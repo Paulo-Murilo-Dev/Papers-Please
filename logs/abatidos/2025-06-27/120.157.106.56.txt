@@ -1,0 +1,14 @@
+🧠 IP: 120.157.106.56
+🌐 País: AU
+📍 Região: Victoria
+🏙️ Cidade: Melbourne
+🏢 Org (ISP): AS1221 Telstra Limited
+🔢 ASN: AS1221
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 22
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1.34s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-27T11:45:12.617Z

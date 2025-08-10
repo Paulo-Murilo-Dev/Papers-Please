@@ -1,0 +1,14 @@
+🧠 IP: 45.234.237.174
+🌐 País: BR
+📍 Região: São Paulo
+🏙️ Cidade: São João da Boa Vista
+🏢 Org (ISP): AS267386 Digital Telecom
+🔢 ASN: AS267386
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 0.95s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-13T10:50:39.883Z

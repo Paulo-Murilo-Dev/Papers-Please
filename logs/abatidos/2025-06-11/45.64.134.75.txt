@@ -1,0 +1,14 @@
+🧠 IP: 45.64.134.75
+🌐 País: BD
+📍 Região: Dhaka Division
+🏙️ Cidade: Dhaka
+🏢 Org (ISP): AS24323 aamra networks limited,
+🔢 ASN: AS24323
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 22
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 2.18s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-11T00:13:47.057Z

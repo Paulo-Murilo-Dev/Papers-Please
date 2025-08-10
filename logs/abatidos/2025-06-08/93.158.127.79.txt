@@ -1,0 +1,14 @@
+🧠 IP: 93.158.127.79
+🌐 País: SE
+📍 Região: Stockholm
+🏙️ Cidade: Stockholm
+🏢 Org (ISP): AS12552 GlobalConnect AB
+🔢 ASN: AS12552
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 80, 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1.58s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-08T20:12:25.175Z

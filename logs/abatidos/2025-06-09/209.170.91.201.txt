@@ -1,0 +1,14 @@
+🧠 IP: 209.170.91.201
+🌐 País: US
+📍 Região: Virginia
+🏙️ Cidade: Leesburg
+🏢 Org (ISP): AS1299 Arelion Sweden AB
+🔢 ASN: AS1299
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 0.90s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-09T02:16:05.649Z

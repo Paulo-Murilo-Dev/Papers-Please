@@ -1,0 +1,14 @@
+🧠 IP: 172.85.102.12
+🌐 País: US
+📍 Região: Virginia
+🏙️ Cidade: Ashburn
+🏢 Org (ISP): AS46261 QuickPacket, LLC
+🔢 ASN: AS46261
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 0.89s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-23T01:01:25.150Z

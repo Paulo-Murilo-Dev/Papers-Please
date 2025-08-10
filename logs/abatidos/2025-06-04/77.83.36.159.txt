@@ -1,0 +1,14 @@
+🧠 IP: 77.83.36.159
+🌐 País: BG
+📍 Região: Sofia-Capital
+🏙️ Cidade: Sofia
+🏢 Org (ISP): AS214403 Layer7 Networks GmbH
+🔢 ASN: AS214403
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 3443, 10443, 4443, 7443, 8443, 1443, 28443, 5443, 6443, 48443, 38443, 58443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 3963.63s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-04T13:15:49.462Z

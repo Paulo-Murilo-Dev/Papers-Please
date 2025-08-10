@@ -1,0 +1,14 @@
+🧠 IP: 177.57.17.30
+🌐 País: BR
+📍 Região: São Paulo
+🏙️ Cidade: Campinas
+🏢 Org (ISP): AS22085 Claro S/A
+🔢 ASN: AS22085
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 2.15s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-23T23:56:27.128Z

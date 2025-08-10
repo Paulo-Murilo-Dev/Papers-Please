@@ -1,0 +1,14 @@
+🧠 IP: 36.136.95.38
+🌐 País: CN
+📍 Região: Guangxi
+🏙️ Cidade: Nanning
+🏢 Org (ISP): AS9808 China Mobile Communications Group Co., Ltd.
+🔢 ASN: AS9808
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 3.86s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-09T06:41:18.494Z

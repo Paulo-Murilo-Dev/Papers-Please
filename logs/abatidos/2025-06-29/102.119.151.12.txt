@@ -1,0 +1,14 @@
+🧠 IP: 102.119.151.12
+🌐 País: MU
+📍 Região: Plaines Wilhems
+🏙️ Cidade: Vacoas
+🏢 Org (ISP): AS23889 Mauritius Telecom Ltd
+🔢 ASN: AS23889
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 84.87s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-29T07:09:25.197Z

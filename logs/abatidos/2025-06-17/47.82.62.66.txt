@@ -1,0 +1,14 @@
+🧠 IP: 47.82.62.66
+🌐 País: US
+📍 Região: California
+🏙️ Cidade: San Mateo
+🏢 Org (ISP): AS45102 Alibaba (US) Technology Co., Ltd.
+🔢 ASN: AS45102
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 80, 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 2.12s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-17T13:36:05.505Z

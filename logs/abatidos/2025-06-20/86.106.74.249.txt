@@ -1,0 +1,14 @@
+🧠 IP: 86.106.74.249
+🌐 País: HU
+📍 Região: Budapest
+🏙️ Cidade: Budapest
+🏢 Org (ISP): AS9009 M247 Europe SRL
+🔢 ASN: AS9009
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 80, 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 2.52s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-20T23:56:53.893Z

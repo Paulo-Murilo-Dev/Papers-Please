@@ -1,0 +1,14 @@
+🧠 IP: 144.172.101.201
+🌐 País: US
+📍 Região: Utah
+🏙️ Cidade: Ogden
+🏢 Org (ISP): AS14956 RouterHosting LLC
+🔢 ASN: AS14956
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 2082, 9000, 8888, 80, 8880, 88, 81, 2087, 443, 593, 8010, 6000, 8088, 2083, 16080, 10443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 801.14s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-10T05:52:48.634Z

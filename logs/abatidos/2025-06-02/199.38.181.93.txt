@@ -1,0 +1,14 @@
+🧠 IP: 199.38.181.93
+🌐 País: US
+📍 Região: New York
+🏙️ Cidade: New York City
+🏢 Org (ISP): AS36236 NetActuate, Inc
+🔢 ASN: AS36236
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 56010, 34358, 38374, 42464
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 8994.19s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-02T23:47:31.667Z

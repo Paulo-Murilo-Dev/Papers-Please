@@ -1,0 +1,14 @@
+🧠 IP: 80.94.92.125
+🌐 País: RO
+📍 Região: Timiș County
+🏙️ Cidade: Timişoara
+🏢 Org (ISP): AS47890 UNMANAGED LTD
+🔢 ASN: AS47890
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 445, 8123, 50000, 6501, 3306, 1433, 41337, 25, 2222, 8088, 9000, 80, 8888, 8090, 60000, 1080
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 390.32s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-28T11:42:39.315Z

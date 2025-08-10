@@ -1,0 +1,14 @@
+🧠 IP: 155.12.255.220
+🌐 País: GH
+📍 Região: Volta
+🏙️ Cidade: Ho
+🏢 Org (ISP): AS328184 UNIVERSITY OF HEALTH AND ALLIED SCIENCES
+🔢 ASN: AS328184
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 22, 2222
+📈 Requisições: 8
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 17.20s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-23T22:54:27.786Z

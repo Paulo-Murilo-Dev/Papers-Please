@@ -1,0 +1,14 @@
+🧠 IP: 10.0.11.3
+🌐 País: -
+📍 Região: -
+🏙️ Cidade: -
+🏢 Org (ISP): 
+🔢 ASN: -
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 5678
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 185561.49s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-24T06:40:52.272Z

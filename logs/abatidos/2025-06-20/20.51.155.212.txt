@@ -1,0 +1,14 @@
+🧠 IP: 20.51.155.212
+🌐 País: US
+📍 Região: Virginia
+🏙️ Cidade: Washington
+🏢 Org (ISP): AS8075 Microsoft Corporation
+🔢 ASN: AS8075
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 31.11s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-20T12:13:27.200Z

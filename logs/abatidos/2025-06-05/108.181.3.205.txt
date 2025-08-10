@@ -1,0 +1,14 @@
+🧠 IP: 108.181.3.205
+🌐 País: US
+📍 Região: California
+🏙️ Cidade: Los Angeles
+🏢 Org (ISP): AS40676 Psychz Networks
+🔢 ASN: AS40676
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 4899, 5642, 5395, 4909, 6141, 6195, 5811, 5152, 5380, 5373, 5854, 5547, 6497, 5610, 5481, 5055, 5476, 4520, 6746, 6615
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 60752.39s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-05T19:28:44.514Z

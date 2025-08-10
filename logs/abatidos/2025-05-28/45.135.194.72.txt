@@ -1,0 +1,14 @@
+🧠 IP: 45.135.194.72
+🌐 País: DE
+📍 Região: Hesse
+🏙️ Cidade: Langen
+🏢 Org (ISP): AS51396 Pfcloud UG
+🔢 ASN: AS51396
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 33900, 33221, 9001, 670, 540, 862, 260, 710, 570, 951, 33889, 410, 720, 3370, 920, 15915, 587, 3398, 44556, 230
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 31764.77s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-28T07:49:38.544Z

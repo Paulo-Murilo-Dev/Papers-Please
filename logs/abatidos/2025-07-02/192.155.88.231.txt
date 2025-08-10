@@ -1,0 +1,14 @@
+🧠 IP: 192.155.88.231
+🌐 País: US
+📍 Região: New Jersey
+🏙️ Cidade: Cedar Knolls
+🏢 Org (ISP): AS63949 Akamai Connected Cloud
+🔢 ASN: AS63949
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 80, 37534, 49805
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 41.76s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-07-02T02:32:45.356Z

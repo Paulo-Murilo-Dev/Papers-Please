@@ -1,0 +1,14 @@
+🧠 IP: 59.178.200.37
+🌐 País: IN
+📍 Região: Himachal Pradesh
+🏙️ Cidade: Solan
+🏢 Org (ISP): AS9829 National Internet Backbone
+🔢 ASN: AS9829
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 23
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 16040.95s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-04T08:47:27.747Z

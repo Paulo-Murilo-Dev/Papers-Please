@@ -1,0 +1,14 @@
+🧠 IP: 167.94.145.29
+🌐 País: DE
+📍 Região: Hesse
+🏙️ Cidade: Frankfurt am Main
+🏢 Org (ISP): AS398705 Censys, Inc.
+🔢 ASN: AS398705
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 10001, 465, 1883, 8159, 103, 6362, 790, 2095, 6008, 50580, 37215, 1244, 18245, 3299, 7443, 8888, 18333, 995
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 595752.97s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-04T20:55:25.477Z

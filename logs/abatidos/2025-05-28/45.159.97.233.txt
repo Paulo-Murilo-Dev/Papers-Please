@@ -1,0 +1,14 @@
+🧠 IP: 45.159.97.233
+🌐 País: ES
+📍 Região: Madrid
+🏙️ Cidade: Madrid
+🏢 Org (ISP): AS36236 NetActuate, Inc
+🔢 ASN: AS36236
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 38280, 53196, 60044, 38728
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 3980.11s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-28T00:22:57.955Z

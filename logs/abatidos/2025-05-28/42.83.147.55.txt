@@ -1,0 +1,14 @@
+🧠 IP: 42.83.147.55
+🌐 País: CN
+📍 Região: Beijing
+🏙️ Cidade: Beijing
+🏢 Org (ISP): AS24151 China Internet Network Infomation Center
+🔢 ASN: AS24151
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 80, 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 3.28s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-28T00:20:39.925Z

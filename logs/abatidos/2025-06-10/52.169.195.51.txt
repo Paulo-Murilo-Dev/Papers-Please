@@ -1,0 +1,14 @@
+🧠 IP: 52.169.195.51
+🌐 País: IE
+📍 Região: Leinster
+🏙️ Cidade: Dublin
+🏢 Org (ISP): AS8075 Microsoft Corporation
+🔢 ASN: AS8075
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1.69s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-10T18:14:24.599Z

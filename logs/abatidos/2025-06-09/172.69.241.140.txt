@@ -1,0 +1,14 @@
+🧠 IP: 172.69.241.140
+🌐 País: BR
+📍 Região: Espírito Santo
+🏙️ Cidade: Vitória
+🏢 Org (ISP): AS13335 Cloudflare, Inc.
+🔢 ASN: AS13335
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 0.28s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-09T06:41:57.038Z

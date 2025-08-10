@@ -1,0 +1,14 @@
+🧠 IP: 23.251.159.180
+🌐 País: US
+📍 Região: Iowa
+🏙️ Cidade: Council Bluffs
+🏢 Org (ISP): AS396982 Google LLC
+🔢 ASN: AS396982
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 49152, 80, 49157, 444, 443, 1029, 515, 3000, 3986, 5101, 631, 1026, 1025, 1110, 554, 513, 110, 2000, 1720, 23
+📈 Requisições: 20
+⚖️ Pontuação: 115
+⏱️ Tempo até punição: 210.94s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-23T03:45:34.267Z

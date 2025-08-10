@@ -1,0 +1,14 @@
+🧠 IP: 177.247.4.105
+🌐 País: MX
+📍 Região: Jalisco
+🏙️ Cidade: Zapopan
+🏢 Org (ISP): AS262916 Mega Cable, S.A. de C.V.
+🔢 ASN: AS262916
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 22
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 0.81s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-15T00:51:27.263Z

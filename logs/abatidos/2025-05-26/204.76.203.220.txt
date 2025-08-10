@@ -1,0 +1,14 @@
+🧠 IP: 204.76.203.220
+🌐 País: NL
+📍 Região: Limburg
+🏙️ Cidade: Kerkrade
+🏢 Org (ISP): AS51396 Pfcloud UG
+🔢 ASN: AS51396
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 6036, 34567
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 8061.75s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-26T14:52:27.982Z

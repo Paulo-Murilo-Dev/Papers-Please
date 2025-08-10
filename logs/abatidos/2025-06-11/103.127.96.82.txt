@@ -1,0 +1,14 @@
+🧠 IP: 103.127.96.82
+🌐 País: ID
+📍 Região: West Java
+🏙️ Cidade: Bekasi
+🏢 Org (ISP): AS133800 PT Biznet Gio Nusantara
+🔢 ASN: AS133800
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 3306
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 2.83s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-11T11:03:11.355Z

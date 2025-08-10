@@ -1,0 +1,14 @@
+🧠 IP: 157.55.39.223
+🌐 País: US
+📍 Região: Washington
+🏙️ Cidade: Moses Lake
+🏢 Org (ISP): AS8075 Microsoft Corporation
+🔢 ASN: AS8075
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1.35s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-28T12:22:23.214Z

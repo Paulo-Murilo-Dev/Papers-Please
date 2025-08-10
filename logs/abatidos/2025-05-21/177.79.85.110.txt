@@ -1,0 +1,14 @@
+🧠 IP: 177.79.85.110
+🌐 País: BR
+📍 Região: São Paulo
+🏙️ Cidade: Sorocaba
+🏢 Org (ISP): AS26599 TELEFÔNICA BRASIL S.A
+🔢 ASN: AS26599
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1.76s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-21T22:42:54.393Z

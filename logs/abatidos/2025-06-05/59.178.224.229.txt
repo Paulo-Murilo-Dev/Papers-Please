@@ -1,0 +1,14 @@
+🧠 IP: 59.178.224.229
+🌐 País: IN
+📍 Região: Chandigarh
+🏙️ Cidade: Chandigarh
+🏢 Org (ISP): AS9829 National Internet Backbone
+🔢 ASN: AS9829
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 23
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 11202.01s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-05T13:52:42.517Z

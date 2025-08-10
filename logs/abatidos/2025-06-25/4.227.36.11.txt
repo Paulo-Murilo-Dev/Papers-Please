@@ -1,0 +1,14 @@
+🧠 IP: 4.227.36.11
+🌐 País: US
+📍 Região: Arizona
+🏙️ Cidade: Phoenix
+🏢 Org (ISP): AS8075 Microsoft Corporation
+🔢 ASN: AS8075
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 5.11s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-25T05:26:20.233Z

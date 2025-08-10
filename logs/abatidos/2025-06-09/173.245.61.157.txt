@@ -1,0 +1,14 @@
+🧠 IP: 173.245.61.157
+🌐 País: US
+📍 Região: California
+🏙️ Cidade: San Francisco
+🏢 Org (ISP): AS395747 Cloudflare, Inc.
+🔢 ASN: AS395747
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1.42s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-09T06:39:28.607Z

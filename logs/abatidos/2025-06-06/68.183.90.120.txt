@@ -1,0 +1,14 @@
+🧠 IP: 68.183.90.120
+🌐 País: IN
+📍 Região: Karnataka
+🏙️ Cidade: Bāshettihalli
+🏢 Org (ISP): AS14061 DigitalOcean, LLC
+🔢 ASN: AS14061
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 60146, 51628, 60104, 38502
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 58470.39s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-06T17:23:54.700Z

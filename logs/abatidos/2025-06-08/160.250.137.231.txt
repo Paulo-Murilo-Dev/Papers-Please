@@ -1,0 +1,14 @@
+🧠 IP: 160.250.137.231
+🌐 País: VN
+📍 Região: Ho Chi Minh
+🏙️ Cidade: Ho Chi Minh City
+🏢 Org (ISP): AS135918 VIET DIGITAL TECHNOLOGY LIABILITY COMPANY
+🔢 ASN: AS135918
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 80
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 16600.28s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-08T10:29:38.378Z

@@ -1,0 +1,14 @@
+🧠 IP: 43.245.48.250
+🌐 País: AU
+📍 Região: New South Wales
+🏙️ Cidade: Sydney
+🏢 Org (ISP): AS36236 NetActuate, Inc
+🔢 ASN: AS36236
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 46998, 48718, 53308, 36958
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 33567.26s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-05T23:26:33.374Z

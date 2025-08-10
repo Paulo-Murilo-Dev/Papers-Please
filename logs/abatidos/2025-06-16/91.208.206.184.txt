@@ -1,0 +1,14 @@
+🧠 IP: 91.208.206.184
+🌐 País: MD
+📍 Região: Chișinău Municipality
+🏙️ Cidade: Chisinau
+🏢 Org (ISP): AS200019 ALEXHOST SRL
+🔢 ASN: AS200019
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 6384.78s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-16T00:10:04.686Z

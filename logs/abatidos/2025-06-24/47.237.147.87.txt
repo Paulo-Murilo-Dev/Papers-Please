@@ -1,0 +1,14 @@
+🧠 IP: 47.237.147.87
+🌐 País: SG
+📍 Região: Singapore
+🏙️ Cidade: Singapore
+🏢 Org (ISP): AS45102 Alibaba (US) Technology Co., Ltd.
+🔢 ASN: AS45102
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1.02s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-24T16:18:31.834Z

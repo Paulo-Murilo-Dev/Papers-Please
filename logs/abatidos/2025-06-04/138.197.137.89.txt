@@ -1,0 +1,14 @@
+🧠 IP: 138.197.137.89
+🌐 País: CA
+📍 Região: Ontario
+🏙️ Cidade: Toronto
+🏢 Org (ISP): AS14061 DigitalOcean, LLC
+🔢 ASN: AS14061
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 80, 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1.69s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-04T13:56:31.840Z

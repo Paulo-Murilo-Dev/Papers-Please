@@ -1,0 +1,14 @@
+🧠 IP: 38.54.15.156
+🌐 País: VN
+📍 Região: Ho Chi Minh
+🏙️ Cidade: Ho Chi Minh City
+🏢 Org (ISP): AS138915 Kaopu Cloud HK Limited
+🔢 ASN: AS138915
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 30, 444, 3343, 5059, 52000, 3337, 32000, 3303, 3329, 3369, 3340, 3312, 2029, 3346, 3350, 3456, 3354, 46000, 100, 3348
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 38158.78s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-21T12:36:11.402Z

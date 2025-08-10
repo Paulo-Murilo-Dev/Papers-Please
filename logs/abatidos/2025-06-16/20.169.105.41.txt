@@ -1,0 +1,14 @@
+🧠 IP: 20.169.105.41
+🌐 País: US
+📍 Região: Arizona
+🏙️ Cidade: Phoenix
+🏢 Org (ISP): AS8075 Microsoft Corporation
+🔢 ASN: AS8075
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 22
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 358.81s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-16T07:56:23.670Z

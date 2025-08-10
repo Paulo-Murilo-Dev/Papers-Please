@@ -1,0 +1,14 @@
+🧠 IP: 205.185.122.87
+🌐 País: US
+📍 Região: Nevada
+🏙️ Cidade: Las Vegas
+🏢 Org (ISP): AS53667 FranTech Solutions
+🔢 ASN: AS53667
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 17.44s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-13T07:12:59.027Z

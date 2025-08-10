@@ -1,0 +1,14 @@
+🧠 IP: 192.73.240.132
+🌐 País: US
+📍 Região: Washington
+🏙️ Cidade: Bothell
+🏢 Org (ISP): AS36236 NetActuate, Inc
+🔢 ASN: AS36236
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 46646, 49360, 43546, 36418
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 48475.76s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-05T14:56:33.746Z

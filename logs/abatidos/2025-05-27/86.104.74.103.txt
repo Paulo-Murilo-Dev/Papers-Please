@@ -1,0 +1,14 @@
+🧠 IP: 86.104.74.103
+🌐 País: FR
+📍 Região: Île-de-France
+🏙️ Cidade: Paris
+🏢 Org (ISP): AS44477 PQ HOSTING PLUS S.R.L.
+🔢 ASN: AS44477
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 33889, 22000, 33666, 33170, 33690, 33580, 49494, 29000, 33600, 62000, 33892, 31000, 15555, 43333, 53333, 33640, 38888, 33590, 64646, 61616
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 38867.47s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-27T00:03:06.243Z

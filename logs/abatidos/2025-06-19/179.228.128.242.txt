@@ -1,0 +1,14 @@
+🧠 IP: 179.228.128.242
+🌐 País: BR
+📍 Região: São Paulo
+🏙️ Cidade: São Paulo
+🏢 Org (ISP): AS26599 TELEFÔNICA BRASIL S.A
+🔢 ASN: AS26599
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 23
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 747.08s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-19T02:41:59.351Z

@@ -1,0 +1,14 @@
+🧠 IP: 207.231.109.106
+🌐 País: US
+📍 Região: Texas
+🏙️ Cidade: Frisco
+🏢 Org (ISP): AS40676 Psychz Networks
+🔢 ASN: AS40676
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 135, 1723, 5900, 8888, 53, 22, 21, 554, 139, 443, 80
+📈 Requisições: 14
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 3.79s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-24T00:30:35.245Z

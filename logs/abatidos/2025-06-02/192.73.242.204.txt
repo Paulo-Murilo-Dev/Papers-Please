@@ -1,0 +1,14 @@
+🧠 IP: 192.73.242.204
+🌐 País: US
+📍 Região: Colorado
+🏙️ Cidade: Denver
+🏢 Org (ISP): AS36236 NetActuate, Inc
+🔢 ASN: AS36236
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 55588, 37382, 41470, 46376
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 418180.09s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-02T23:22:41.785Z

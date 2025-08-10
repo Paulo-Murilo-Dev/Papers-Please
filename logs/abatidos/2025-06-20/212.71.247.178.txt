@@ -1,0 +1,14 @@
+🧠 IP: 212.71.247.178
+🌐 País: GB
+📍 Região: England
+🏙️ Cidade: London
+🏢 Org (ISP): AS63949 Akamai Connected Cloud
+🔢 ASN: AS63949
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 80, 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1.31s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-20T07:42:22.156Z

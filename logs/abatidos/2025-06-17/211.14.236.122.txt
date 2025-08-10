@@ -1,0 +1,14 @@
+🧠 IP: 211.14.236.122
+🌐 País: JP
+📍 Região: Aichi
+🏙️ Cidade: Kariya
+🏢 Org (ISP): AS59108 KATCH NETWORK INC.
+🔢 ASN: AS59108
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 2022, 2222, 22
+📈 Requisições: 8
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1.68s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-17T04:28:32.805Z

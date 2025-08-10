@@ -1,0 +1,14 @@
+🧠 IP: 182.44.8.254
+🌐 País: CN
+📍 Região: Guizhou
+🏙️ Cidade: Guiyang
+🏢 Org (ISP): AS58519 Cloud Computing Corporation
+🔢 ASN: AS58519
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 80, 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 4.16s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-09T13:14:26.293Z

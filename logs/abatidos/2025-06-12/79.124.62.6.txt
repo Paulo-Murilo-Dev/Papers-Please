@@ -1,0 +1,14 @@
+🧠 IP: 79.124.62.6
+🌐 País: BG
+📍 Região: Sofia-Capital
+🏙️ Cidade: Sofia
+🏢 Org (ISP): AS207812 DM AUTO EOOD
+🔢 ASN: AS207812
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 5104, 3551, 2991, 2976, 4164, 4342, 2602, 3194, 3898, 5135, 4925, 4187, 2854, 5124, 4178, 3027, 4553, 4234, 4038, 4485
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 2957.87s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-12T23:11:47.942Z

@@ -1,0 +1,14 @@
+🧠 IP: 103.178.234.231
+🌐 País: VN
+📍 Região: Hanoi
+🏙️ Cidade: Hanoi
+🏢 Org (ISP): AS140810 Megacore Technology Company Limited
+🔢 ASN: AS140810
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 42829, 37598, 35750, 8822, 5500, 8800, 4422, 2277, 4444, 1122, 2211, 9955, 9922, 9933, 8811, 6633, 2266, 4488, 2244, 9900
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 540733.57s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-04T05:52:33.039Z

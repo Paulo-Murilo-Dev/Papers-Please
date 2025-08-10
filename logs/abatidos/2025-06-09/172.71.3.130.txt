@@ -1,0 +1,14 @@
+🧠 IP: 172.71.3.130
+🌐 País: BF
+📍 Região: Centre
+🏙️ Cidade: Ouagadougou
+🏢 Org (ISP): AS13335 Cloudflare, Inc.
+🔢 ASN: AS13335
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 2.44s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-09T06:41:39.427Z

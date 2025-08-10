@@ -1,0 +1,14 @@
+🧠 IP: 109.205.213.244
+🌐 País: US
+📍 Região: New York
+🏙️ Cidade: New York City
+🏢 Org (ISP): AS19318 Interserver, Inc
+🔢 ASN: AS19318
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 26901, 28662, 28085, 28993, 27995, 26540, 28228, 27465, 27549, 28058, 28999, 27466, 28518, 28309, 28463, 26481, 28872, 26748, 27822, 28710
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 18252.85s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-28T18:19:31.569Z

@@ -1,0 +1,14 @@
+🧠 IP: 170.39.218.2
+🌐 País: FR
+📍 Região: Île-de-France
+🏙️ Cidade: Vélizy-Villacoublay
+🏢 Org (ISP): AS52053 REDHEBERG Association declaree
+🔢 ASN: AS52053
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 80
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 10011.39s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-16T07:55:06.479Z

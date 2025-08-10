@@ -1,0 +1,14 @@
+🧠 IP: 195.201.56.98
+🌐 País: DE
+📍 Região: Saxony
+🏙️ Cidade: Falkenstein
+🏢 Org (ISP): AS24940 Hetzner Online GmbH
+🔢 ASN: AS24940
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 180.95s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-24T18:59:02.717Z

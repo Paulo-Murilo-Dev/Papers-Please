@@ -1,0 +1,14 @@
+🧠 IP: 208.111.40.12
+🌐 País: US
+📍 Região: California
+🏙️ Cidade: Burbank
+🏢 Org (ISP): AS36236 NetActuate, Inc
+🔢 ASN: AS36236
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 51492, 55436, 48202, 43054
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 12176.23s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-10T21:09:37.641Z

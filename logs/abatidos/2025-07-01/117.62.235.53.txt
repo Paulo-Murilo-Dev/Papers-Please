@@ -1,0 +1,14 @@
+🧠 IP: 117.62.235.53
+🌐 País: CN
+📍 Região: Jiangsu
+🏙️ Cidade: Nanjing
+🏢 Org (ISP): AS134756 CHINANET Nanjing Jishan IDC network
+🔢 ASN: AS134756
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 80, 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 21.57s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-07-01T13:35:05.417Z

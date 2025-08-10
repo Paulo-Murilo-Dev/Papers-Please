@@ -1,0 +1,14 @@
+🧠 IP: 95.168.161.213
+🌐 País: NL
+📍 Região: Flevoland
+🏙️ Cidade: Lelystad
+🏢 Org (ISP): AS60781 LeaseWeb Netherlands B.V.
+🔢 ASN: AS60781
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 24145, 24730, 20339, 1270, 5887, 4422, 1917, 3414, 4897, 8550, 7337, 9398, 8569, 2249, 1851, 2316, 5478, 9386, 9619, 7998
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 575490.16s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-04T17:25:23.524Z

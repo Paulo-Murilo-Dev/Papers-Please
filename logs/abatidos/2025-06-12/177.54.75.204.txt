@@ -1,0 +1,14 @@
+🧠 IP: 177.54.75.204
+🌐 País: BR
+📍 Região: São Paulo
+🏙️ Cidade: Casa Branca
+🏢 Org (ISP): AS28154 AR TELECOM PROVEDOR DE INTERNET LTDA
+🔢 ASN: AS28154
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 0.76s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-12T14:21:56.549Z

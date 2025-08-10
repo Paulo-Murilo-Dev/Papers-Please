@@ -1,0 +1,14 @@
+🧠 IP: 162.158.202.19
+🌐 País: DE
+📍 Região: Hamburg
+🏙️ Cidade: Hamburg
+🏢 Org (ISP): AS13335 Cloudflare, Inc.
+🔢 ASN: AS13335
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 108.40s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-28T12:21:42.352Z

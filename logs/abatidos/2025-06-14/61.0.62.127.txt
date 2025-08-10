@@ -1,0 +1,14 @@
+🧠 IP: 61.0.62.127
+🌐 País: IN
+📍 Região: Tamil Nadu
+🏙️ Cidade: Chennai
+🏢 Org (ISP): AS9829 National Internet Backbone
+🔢 ASN: AS9829
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 23
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 0.52s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-14T08:17:23.069Z

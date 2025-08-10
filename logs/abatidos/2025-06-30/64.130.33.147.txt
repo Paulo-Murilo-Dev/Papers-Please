@@ -1,0 +1,14 @@
+🧠 IP: 64.130.33.147
+🌐 País: US
+📍 Região: Utah
+🏙️ Cidade: Bluffdale
+🏢 Org (ISP): AS20326 TeraSwitch Networks Inc.
+🔢 ASN: AS20326
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 80, 8088, 8080, 8888, 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 24150.86s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-30T12:57:11.192Z

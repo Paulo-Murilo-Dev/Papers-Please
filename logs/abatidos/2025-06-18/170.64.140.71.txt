@@ -1,0 +1,14 @@
+🧠 IP: 170.64.140.71
+🌐 País: AU
+📍 Região: New South Wales
+🏙️ Cidade: Sydney
+🏢 Org (ISP): AS14061 DigitalOcean, LLC
+🔢 ASN: AS14061
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 22
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 173.25s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-18T15:34:31.233Z

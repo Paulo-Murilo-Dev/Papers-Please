@@ -1,0 +1,14 @@
+🧠 IP: 104.156.155.9
+🌐 País: US
+📍 Região: California
+🏙️ Cidade: Los Angeles
+🏢 Org (ISP): AS400161 Academy for Internet Research Limited Liability Company
+🔢 ASN: AS400161
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 8251, 7887, 139, 7001, 4545, 8029, 9304, 10432, 3541, 8622, 3129, 8766, 56044, 9222, 8050, 6667, 8044, 6381, 3061, 2559
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 812.81s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-04T00:46:44.921Z

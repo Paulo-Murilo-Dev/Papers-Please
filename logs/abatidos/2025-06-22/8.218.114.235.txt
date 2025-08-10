@@ -1,0 +1,14 @@
+🧠 IP: 8.218.114.235
+🌐 País: HK
+📍 Região: Hong Kong
+🏙️ Cidade: Hong Kong
+🏢 Org (ISP): AS45102 Alibaba (US) Technology Co., Ltd.
+🔢 ASN: AS45102
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1.78s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-22T11:53:27.173Z

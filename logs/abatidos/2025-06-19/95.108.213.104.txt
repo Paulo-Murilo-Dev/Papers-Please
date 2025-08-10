@@ -1,0 +1,14 @@
+🧠 IP: 95.108.213.104
+🌐 País: RU
+📍 Região: Moscow Oblast
+🏙️ Cidade: Stupino
+🏢 Org (ISP): AS13238 YANDEX LLC
+🔢 ASN: AS13238
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 93.61s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-19T05:09:47.814Z

@@ -1,0 +1,14 @@
+🧠 IP: 45.159.98.253
+🌐 País: PL
+📍 Região: Mazovia
+🏙️ Cidade: Warsaw
+🏢 Org (ISP): AS36236 NetActuate, Inc
+🔢 ASN: AS36236
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 45332, 52758, 46606, 54528
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 58487.53s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-05T17:53:59.608Z

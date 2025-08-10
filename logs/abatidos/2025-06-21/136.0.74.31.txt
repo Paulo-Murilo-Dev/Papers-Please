@@ -1,0 +1,14 @@
+🧠 IP: 136.0.74.31
+🌐 País: US
+📍 Região: Washington
+🏙️ Cidade: Seattle
+🏢 Org (ISP): AS10557 Connect Northwest Internet Services, LLC
+🔢 ASN: AS10557
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1.26s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-21T00:05:57.938Z

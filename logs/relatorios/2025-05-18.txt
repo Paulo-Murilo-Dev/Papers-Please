@@ -1,0 +1,31 @@
+📅 Relatório de Conexões – 2025-05-18
+
+🔢 Top IPs por tentativas:
+- 104.156.155.13: 1463 conexões
+- 212.85.13.41: 1363 conexões
+- 212.85.166.12: 161 conexões
+- 212.85.176.23: 155 conexões
+- 93.123.109.125: 142 conexões
+- 38.54.15.156: 94 conexões
+- 5.188.206.22: 78 conexões
+- 209.85.166.71: 60 conexões
+- 209.85.160.198: 60 conexões
+- 209.85.222.200: 60 conexões
+
+🎯 Portas mais visadas:
+- 443: 4456 tentativas
+- 80: 2026 tentativas
+- 23: 1011 tentativas
+- 25: 612 tentativas
+- 6379: 114 tentativas
+- 8291: 109 tentativas
+- 7547: 108 tentativas
+- 445: 93 tentativas
+- 1433: 84 tentativas
+- 3306: 59 tentativas
+
+✅ Conexões aceitas: 6149
+❌ Conexões bloqueadas: 5270
+⏳ Conexões pendentes: 0
+
+🕒 Última atualização: 01:05:01

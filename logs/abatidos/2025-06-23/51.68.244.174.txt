@@ -1,0 +1,14 @@
+🧠 IP: 51.68.244.174
+🌐 País: FR
+📍 Região: Hauts-de-France
+🏙️ Cidade: Lille
+🏢 Org (ISP): AS16276 OVH SAS
+🔢 ASN: AS16276
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 5438, 9904, 9171, 4392, 5698, 9724, 466, 2128, 8209, 8856, 9393, 4011, 3391, 5316, 8182, 3210, 6620, 6398, 1776, 1068
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 203.97s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-23T13:37:21.784Z

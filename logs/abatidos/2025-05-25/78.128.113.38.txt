@@ -1,0 +1,14 @@
+🧠 IP: 78.128.113.38
+🌐 País: BG
+📍 Região: Sofia-Capital
+🏙️ Cidade: Sofia
+🏢 Org (ISP): AS209160 Miti 2000 EOOD
+🔢 ASN: AS209160
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 38961, 35168, 47003, 39620, 35507, 44538, 36109, 38944, 40928, 40088, 36042, 34090, 45502, 46094, 38983, 35105, 47338, 38581, 40229, 43787
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 4506.88s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-25T13:47:41.600Z

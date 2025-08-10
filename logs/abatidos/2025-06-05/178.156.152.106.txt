@@ -1,0 +1,14 @@
+🧠 IP: 178.156.152.106
+🌐 País: US
+📍 Região: Virginia
+🏙️ Cidade: Ashburn
+🏢 Org (ISP): AS213230 Hetzner Online GmbH
+🔢 ASN: AS213230
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 54028, 35690, 40848, 41216
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 56002.18s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-05T16:09:43.464Z

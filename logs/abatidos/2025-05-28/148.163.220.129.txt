@@ -1,0 +1,14 @@
+🧠 IP: 148.163.220.129
+🌐 País: BR
+📍 Região: São Paulo
+🏙️ Cidade: São Paulo
+🏢 Org (ISP): AS36236 NetActuate, Inc
+🔢 ASN: AS36236
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 58626, 32928, 54228, 59872
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1049.99s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-28T23:39:58.550Z

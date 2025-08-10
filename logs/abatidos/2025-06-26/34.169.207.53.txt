@@ -1,0 +1,14 @@
+🧠 IP: 34.169.207.53
+🌐 País: US
+📍 Região: Oregon
+🏙️ Cidade: The Dalles
+🏢 Org (ISP): AS396982 Google LLC
+🔢 ASN: AS396982
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 80, 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 2.32s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-26T15:02:09.872Z

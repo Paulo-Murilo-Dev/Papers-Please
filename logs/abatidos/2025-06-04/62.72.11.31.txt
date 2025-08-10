@@ -1,0 +1,14 @@
+🧠 IP: 62.72.11.31
+🌐 País: BR
+📍 Região: São Paulo
+🏙️ Cidade: São Paulo
+🏢 Org (ISP): AS47583 Hostinger International Limited
+🔢 ASN: AS47583
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 62906, 54598, 58256, 63444, 50541, 52511, 37170, 55385, 55662, 55749, 55728, 56006, 57850, 56345, 56838, 56086, 37310, 50598
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 556545.75s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-04T12:10:38.182Z

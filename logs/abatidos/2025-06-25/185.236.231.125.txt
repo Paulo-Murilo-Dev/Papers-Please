@@ -1,0 +1,14 @@
+🧠 IP: 185.236.231.125
+🌐 País: PT
+📍 Região: Lisbon
+🏙️ Cidade: Lisbon
+🏢 Org (ISP): AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
+🔢 ASN: AS47674
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 80, 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 36145.51s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-25T11:16:51.696Z

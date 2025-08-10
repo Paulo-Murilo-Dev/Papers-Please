@@ -1,0 +1,14 @@
+🧠 IP: 180.110.203.108
+🌐 País: CN
+📍 Região: Jiangsu
+🏙️ Cidade: Nanjing
+🏢 Org (ISP): AS134756 CHINANET Nanjing Jishan IDC network
+🔢 ASN: AS134756
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 80, 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 7.37s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-30T06:33:37.695Z

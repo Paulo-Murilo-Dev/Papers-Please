@@ -1,0 +1,14 @@
+🧠 IP: 208.83.233.233
+🌐 País: US
+📍 Região: Hawaii
+🏙️ Cidade: Honolulu
+🏢 Org (ISP): AS20473 The Constant Company, LLC
+🔢 ASN: AS20473
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 38262, 42128, 55540, 45444
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 63925.28s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-06T18:44:42.257Z

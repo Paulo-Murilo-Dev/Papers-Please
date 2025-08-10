@@ -1,0 +1,14 @@
+🧠 IP: 173.252.127.10
+🌐 País: US
+📍 Região: North Carolina
+🏙️ Cidade: Forest City
+🏢 Org (ISP): AS32934 Facebook, Inc.
+🔢 ASN: AS32934
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 0.95s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-11T14:40:42.573Z

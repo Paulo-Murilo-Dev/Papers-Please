@@ -1,0 +1,14 @@
+🧠 IP: 49.51.183.15
+🌐 País: US
+📍 Região: California
+🏙️ Cidade: Santa Clara
+🏢 Org (ISP): AS132203 Tencent Building, Kejizhongyi Avenue
+🔢 ASN: AS132203
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 80, 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 2.17s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-26T06:09:10.796Z

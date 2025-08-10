@@ -1,0 +1,14 @@
+🧠 IP: 69.171.231.2
+🌐 País: US
+📍 Região: Utah
+🏙️ Cidade: Eagle Mountain
+🏢 Org (ISP): AS32934 Facebook, Inc.
+🔢 ASN: AS32934
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1.45s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-26T07:16:14.206Z

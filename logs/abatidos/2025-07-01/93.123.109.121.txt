@@ -1,0 +1,14 @@
+🧠 IP: 93.123.109.121
+🌐 País: NL
+📍 Região: North Holland
+🏙️ Cidade: Amsterdam
+🏢 Org (ISP): AS48090 TECHOFF SRV LIMITED
+🔢 ASN: AS48090
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 7001, 7547, 9000, 22222, 50050, 2443, 2095, 7707, 110, 10000, 3306, 102, 1883, 445, 8808, 993, 6066, 7443, 8443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 364.45s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-07-01T04:57:55.152Z

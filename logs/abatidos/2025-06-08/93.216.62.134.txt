@@ -1,0 +1,14 @@
+🧠 IP: 93.216.62.134
+🌐 País: DE
+📍 Região: Rheinland-Pfalz
+🏙️ Cidade: Schweich
+🏢 Org (ISP): AS3320 Deutsche Telekom AG
+🔢 ASN: AS3320
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 80, 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 6.90s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-08T14:22:53.325Z

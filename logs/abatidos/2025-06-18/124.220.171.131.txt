@@ -1,0 +1,14 @@
+🧠 IP: 124.220.171.131
+🌐 País: CN
+📍 Região: Shanghai
+🏙️ Cidade: Shanghai
+🏢 Org (ISP): AS45090 Shenzhen Tencent Computer Systems Company Limited
+🔢 ASN: AS45090
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 912.46s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-18T12:33:06.277Z

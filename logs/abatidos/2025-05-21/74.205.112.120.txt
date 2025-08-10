@@ -1,0 +1,14 @@
+🧠 IP: 74.205.112.120
+🌐 País: US
+📍 Região: Texas
+🏙️ Cidade: Dallas
+🏢 Org (ISP): AS33070 Rackspace Hosting
+🔢 ASN: AS33070
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 57834, 57864, 57848
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 0.44s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-21T12:46:25.130Z

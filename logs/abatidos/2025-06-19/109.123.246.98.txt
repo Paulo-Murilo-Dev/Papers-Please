@@ -1,0 +1,14 @@
+🧠 IP: 109.123.246.98
+🌐 País: DE
+📍 Região: Hesse
+🏙️ Cidade: Frankfurt am Main
+🏢 Org (ISP): AS51167 Contabo GmbH
+🔢 ASN: AS51167
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 2222, 3389, 22222, 443, 55554, 9000, 9090, 2223, 6000, 8888, 8022, 9999, 2323, 444, 2002, 26, 7777, 2022, 666, 5555
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 0.75s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-19T17:57:33.883Z

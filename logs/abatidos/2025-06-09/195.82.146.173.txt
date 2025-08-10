@@ -1,0 +1,14 @@
+🧠 IP: 195.82.146.173
+🌐 País: FI
+📍 Região: Uusimaa
+🏙️ Cidade: Helsinki
+🏢 Org (ISP): AS47105 Vault Dweller OU
+🔢 ASN: AS47105
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 1910, 5800, 59389, 49999, 18080, 52014, 5084, 4489, 4020, 42389, 17215, 9313, 4650, 43444, 3172, 29119, 14389, 4000, 13391, 33389
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 3251.97s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-09T20:03:12.694Z

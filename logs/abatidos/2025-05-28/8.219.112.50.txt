@@ -1,0 +1,14 @@
+🧠 IP: 8.219.112.50
+🌐 País: SG
+📍 Região: Singapore
+🏙️ Cidade: Singapore
+🏢 Org (ISP): AS45102 Alibaba (US) Technology Co., Ltd.
+🔢 ASN: AS45102
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 8888, 444, 22222, 8022, 666, 7777, 55554, 26, 2323, 9000, 6000, 50000, 23, 4118, 443, 2222, 2022
+📈 Requisições: 17
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 0.46s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-28T08:11:39.675Z

@@ -1,0 +1,14 @@
+🧠 IP: 176.126.103.21
+🌐 País: RU
+📍 Região: Moscow
+🏙️ Cidade: Moscow
+🏢 Org (ISP): AS199785 Cloud Hosting Solutions, Limited.
+🔢 ASN: AS199785
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 80, 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 62713.92s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-11T18:01:53.404Z

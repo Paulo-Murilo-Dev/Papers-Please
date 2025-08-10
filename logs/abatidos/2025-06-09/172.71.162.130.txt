@@ -1,0 +1,14 @@
+🧠 IP: 172.71.162.130
+🌐 País: IN
+📍 Região: Telangana
+🏙️ Cidade: Hyderābād
+🏢 Org (ISP): AS13335 Cloudflare, Inc.
+🔢 ASN: AS13335
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 3.23s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-09T06:40:46.697Z

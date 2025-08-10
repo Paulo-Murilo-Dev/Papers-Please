@@ -1,0 +1,14 @@
+🧠 IP: 193.233.233.29
+🌐 País: DE
+📍 Região: Hesse
+🏙️ Cidade: Frankfurt am Main
+🏢 Org (ISP): AS210644 AEZA INTERNATIONAL LTD
+🔢 ASN: AS210644
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 32.49s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-28T03:33:33.418Z

@@ -1,0 +1,14 @@
+🧠 IP: 217.199.20.223
+🌐 País: IT
+📍 Região: Trentino-Alto Adige
+🏙️ Cidade: Rovereto
+🏢 Org (ISP): AS20811 Retelit Digital Services S.p.A.
+🔢 ASN: AS20811
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 22
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 0.76s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-07-01T03:10:59.405Z

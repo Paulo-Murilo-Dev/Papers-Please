@@ -1,0 +1,14 @@
+🧠 IP: 45.12.138.171
+🌐 País: DE
+📍 Região: Hesse
+🏙️ Cidade: Frankfurt am Main
+🏢 Org (ISP): AS44477 PQ HOSTING PLUS S.R.L.
+🔢 ASN: AS44477
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 3350, 2025, 33910, 8555, 55556, 2029, 1593, 6333, 2007, 2023, 2017, 7888, 6338, 12369, 2002, 33842, 3340, 55552, 55551, 9632
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 43485.19s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-27T01:12:48.285Z

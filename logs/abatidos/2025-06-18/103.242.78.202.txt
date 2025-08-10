@@ -1,0 +1,14 @@
+🧠 IP: 103.242.78.202
+🌐 País: ID
+📍 Região: East Java
+🏙️ Cidade: Jember
+🏢 Org (ISP): AS151541 Universitas Muhammadiyah Jember
+🔢 ASN: AS151541
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 3306
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 2.94s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-18T05:41:09.718Z

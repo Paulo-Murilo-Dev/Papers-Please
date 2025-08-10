@@ -1,0 +1,14 @@
+🧠 IP: 95.167.133.86
+🌐 País: RU
+📍 Região: Kaliningrad Oblast
+🏙️ Cidade: Kaliningrad
+🏢 Org (ISP): AS12389 PJSC Rostelecom
+🔢 ASN: AS12389
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 22
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1.03s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-08T03:19:10.095Z

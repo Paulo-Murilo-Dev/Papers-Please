@@ -1,0 +1,14 @@
+🧠 IP: 205.169.39.201
+🌐 País: US
+📍 Região: Texas
+🏙️ Cidade: Dallas
+🏢 Org (ISP): AS3356 Level 3 Parent, LLC
+🔢 ASN: AS3356
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1.62s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-26T20:53:54.081Z

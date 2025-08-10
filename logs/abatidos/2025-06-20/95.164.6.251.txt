@@ -1,0 +1,14 @@
+🧠 IP: 95.164.6.251
+🌐 País: FR
+📍 Região: Île-de-France
+🏙️ Cidade: Paris
+🏢 Org (ISP): AS44477 PQ HOSTING PLUS S.R.L.
+🔢 ASN: AS44477
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 25493, 25594, 25606, 25948, 30996, 25639, 25630, 26002, 26026, 25756, 25705, 25585, 25888, 24454, 25870, 25586, 20952, 11181, 18851
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 2662.75s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-20T14:52:12.707Z

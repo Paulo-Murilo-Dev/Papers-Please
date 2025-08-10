@@ -1,0 +1,14 @@
+🧠 IP: 34.75.221.35
+🌐 País: US
+📍 Região: South Carolina
+🏙️ Cidade: North Charleston
+🏢 Org (ISP): AS396982 Google LLC
+🔢 ASN: AS396982
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1.42s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-10T10:37:25.243Z

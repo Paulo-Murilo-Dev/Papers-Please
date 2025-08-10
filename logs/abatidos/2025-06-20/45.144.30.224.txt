@@ -1,0 +1,14 @@
+🧠 IP: 45.144.30.224
+🌐 País: RU
+📍 Região: Moscow
+🏙️ Cidade: Moscow
+🏢 Org (ISP): AS33993 UFO Hosting LLC
+🔢 ASN: AS33993
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 25984, 26098, 25643, 26044, 25804, 25708, 25906, 26116, 26284, 25816, 25574, 25828, 25996, 25565, 25852, 26074, 2107, 21400, 44955, 25595
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 859.79s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-20T14:21:36.049Z

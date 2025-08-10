@@ -1,0 +1,14 @@
+🧠 IP: 178.175.167.128
+🌐 País: MD
+📍 Região: Anenii Noi
+🏙️ Cidade: Anenii Noi
+🏢 Org (ISP): AS211504 STUDIO AN-TV SRL
+🔢 ASN: AS211504
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443, 80
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 76735.37s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-27T13:25:12.043Z

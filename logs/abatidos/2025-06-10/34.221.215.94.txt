@@ -1,0 +1,14 @@
+🧠 IP: 34.221.215.94
+🌐 País: US
+📍 Região: Oregon
+🏙️ Cidade: Boardman
+🏢 Org (ISP): AS16509 Amazon.com, Inc.
+🔢 ASN: AS16509
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 16.36s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-10T02:08:08.433Z

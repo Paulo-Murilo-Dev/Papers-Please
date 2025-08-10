@@ -1,0 +1,14 @@
+🧠 IP: 123.163.114.148
+🌐 País: CN
+📍 Região: Henan
+🏙️ Cidade: Zhengzhou
+🏢 Org (ISP): AS4134 CHINANET-BACKBONE
+🔢 ASN: AS4134
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 22
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1.48s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-09T12:07:00.594Z

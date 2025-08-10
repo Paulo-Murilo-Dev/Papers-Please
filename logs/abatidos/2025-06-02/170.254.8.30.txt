@@ -1,0 +1,14 @@
+🧠 IP: 170.254.8.30
+🌐 País: BR
+📍 Região: Goiás
+🏙️ Cidade: Gameleira de Goiás
+🏢 Org (ISP): AS52573 Une Telecom Ltda
+🔢 ASN: AS52573
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 22
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 0.37s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-02T20:37:06.176Z

@@ -1,0 +1,14 @@
+🧠 IP: 172.68.13.140
+🌐 País: CI
+📍 Região: Lacs District
+🏙️ Cidade: Yamoussoukro
+🏢 Org (ISP): AS13335 Cloudflare, Inc.
+🔢 ASN: AS13335
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 2.01s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-09T06:41:26.673Z

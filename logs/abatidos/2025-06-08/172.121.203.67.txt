@@ -1,0 +1,14 @@
+🧠 IP: 172.121.203.67
+🌐 País: US
+📍 Região: Texas
+🏙️ Cidade: Dallas
+🏢 Org (ISP): AS3257 GTT Communications Inc.
+🔢 ASN: AS3257
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1.06s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-08T22:07:36.847Z

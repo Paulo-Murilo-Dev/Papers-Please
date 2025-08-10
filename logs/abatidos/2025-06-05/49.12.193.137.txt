@@ -1,0 +1,14 @@
+🧠 IP: 49.12.193.137
+🌐 País: DE
+📍 Região: Bavaria
+🏙️ Cidade: Nürnberg
+🏢 Org (ISP): AS24940 Hetzner Online GmbH
+🔢 ASN: AS24940
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 43504, 49530, 33476, 59994
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 45894.35s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-05T14:39:55.693Z

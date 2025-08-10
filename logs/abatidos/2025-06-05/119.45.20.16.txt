@@ -1,0 +1,14 @@
+🧠 IP: 119.45.20.16
+🌐 País: CN
+📍 Região: Jiangsu
+🏙️ Cidade: Nanjing
+🏢 Org (ISP): AS45090 Shenzhen Tencent Computer Systems Company Limited
+🔢 ASN: AS45090
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 80, 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 5.09s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-05T05:24:17.255Z

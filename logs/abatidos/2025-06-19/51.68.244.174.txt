@@ -1,0 +1,14 @@
+🧠 IP: 51.68.244.174
+🌐 País: FR
+📍 Região: Hauts-de-France
+🏙️ Cidade: Dunkerque
+🏢 Org (ISP): AS16276 OVH SAS
+🔢 ASN: AS16276
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 8081, 5001, 8080, 8082, 3001, 5000, 9200, 4001, 3000, 8001, 7000, 8090, 8000, 8089, 9443, 4000, 8181, 80, 4567
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 234.56s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-19T03:22:10.629Z

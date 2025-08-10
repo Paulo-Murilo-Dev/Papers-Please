@@ -1,0 +1,14 @@
+🧠 IP: 85.190.243.252
+🌐 País: DE
+📍 Região: Hesse
+🏙️ Cidade: Frankfurt am Main
+🏢 Org (ISP): AS51167 Contabo GmbH
+🔢 ASN: AS51167
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 7170, 2176, 5397, 7615, 7102, 9597, 2724, 6326, 5171, 7817, 4168, 4389, 7537, 8925, 846, 3009, 5969, 8079, 8189, 4246
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1110.57s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-25T18:34:54.288Z

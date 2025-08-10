@@ -1,0 +1,14 @@
+🧠 IP: 117.195.247.213
+🌐 País: IN
+📍 Região: West Bengal
+🏙️ Cidade: Malda
+🏢 Org (ISP): AS9829 National Internet Backbone
+🔢 ASN: AS9829
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 23
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 10046.40s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-06T15:52:47.378Z

@@ -1,0 +1,14 @@
+🧠 IP: 149.50.103.48
+🌐 País: PL
+📍 Região: Mazovia
+🏙️ Cidade: Warsaw
+🏢 Org (ISP): AS201814 MEVSPACE sp. z o.o.
+🔢 ASN: AS201814
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 80, 81, 82, 83, 85, 88
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 21130.28s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-10T22:34:04.967Z

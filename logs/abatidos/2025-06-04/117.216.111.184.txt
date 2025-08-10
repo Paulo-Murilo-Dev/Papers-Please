@@ -1,0 +1,14 @@
+🧠 IP: 117.216.111.184
+🌐 País: IN
+📍 Região: Tamil Nadu
+🏙️ Cidade: Coimbatore
+🏢 Org (ISP): AS9829 National Internet Backbone
+🔢 ASN: AS9829
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 23
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1268.49s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-04T13:23:37.089Z

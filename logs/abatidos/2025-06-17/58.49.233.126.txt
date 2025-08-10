@@ -1,0 +1,14 @@
+🧠 IP: 58.49.233.126
+🌐 País: CN
+📍 Região: Hubei
+🏙️ Cidade: Wuhan
+🏢 Org (ISP): AS58563 CHINANET Hubei province network
+🔢 ASN: AS58563
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 80, 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 6.50s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-17T14:16:45.313Z

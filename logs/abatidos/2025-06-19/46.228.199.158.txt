@@ -1,0 +1,14 @@
+🧠 IP: 46.228.199.158
+🌐 País: DE
+📍 Região: North Rhine-Westphalia
+🏙️ Cidade: Willich
+🏢 Org (ISP): AS24961 WIIT AG
+🔢 ASN: AS24961
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1.37s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-19T09:57:45.350Z

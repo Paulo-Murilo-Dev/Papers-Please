@@ -1,0 +1,14 @@
+🧠 IP: 64.227.97.40
+🌐 País: US
+📍 Região: California
+🏙️ Cidade: Santa Clara
+🏢 Org (ISP): AS14061 DigitalOcean, LLC
+🔢 ASN: AS14061
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 80
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 6996.46s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-12T11:32:46.777Z

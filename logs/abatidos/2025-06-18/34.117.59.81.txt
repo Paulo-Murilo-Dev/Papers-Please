@@ -1,0 +1,14 @@
+🧠 IP: 34.117.59.81
+🌐 País: US
+📍 Região: Missouri
+🏙️ Cidade: Kansas City
+🏢 Org (ISP): AS396982 Google LLC
+🔢 ASN: AS396982
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 38646, 56526, 56528, 56544
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 535.53s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-18T23:52:50.712Z

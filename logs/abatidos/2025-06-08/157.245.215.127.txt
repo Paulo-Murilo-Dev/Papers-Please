@@ -1,0 +1,14 @@
+🧠 IP: 157.245.215.127
+🌐 País: US
+📍 Região: New Jersey
+🏙️ Cidade: Clifton
+🏢 Org (ISP): AS14061 DigitalOcean, LLC
+🔢 ASN: AS14061
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 4377.62s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-08T18:48:41.183Z

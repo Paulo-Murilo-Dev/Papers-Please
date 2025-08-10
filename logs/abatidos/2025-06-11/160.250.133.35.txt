@@ -1,0 +1,14 @@
+🧠 IP: 160.250.133.35
+🌐 País: VN
+📍 Região: Ho Chi Minh
+🏙️ Cidade: Ho Chi Minh City
+🏢 Org (ISP): AS150895 EZ TECHNOLOGY COMPANY LIMITED
+🔢 ASN: AS150895
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 33758, 33708, 33831, 33851, 33084, 33799, 33566, 33069, 33830, 33867, 33526, 33841, 33577, 33652, 33239, 33149, 33697, 33304, 33996, 33195
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 98816.57s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-11T21:07:05.478Z

@@ -1,0 +1,14 @@
+🧠 IP: 209.177.156.197
+🌐 País: US
+📍 Região: Texas
+🏙️ Cidade: Dallas
+🏢 Org (ISP): AS36236 NetActuate, Inc
+🔢 ASN: AS36236
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 50682, 45322, 51362, 46994
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 422921.22s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-02T20:28:38.119Z

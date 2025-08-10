@@ -1,0 +1,14 @@
+🧠 IP: 82.140.0.120
+🌐 País: DE
+📍 Região: State of Berlin
+🏙️ Cidade: Berlin
+🏢 Org (ISP): AS8881 1&1 Versatel Deutschland GmbH
+🔢 ASN: AS8881
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 59.04s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-11T18:35:57.844Z

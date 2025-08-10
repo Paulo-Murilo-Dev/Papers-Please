@@ -1,0 +1,14 @@
+🧠 IP: 59.91.160.216
+🌐 País: IN
+📍 Região: Haryana
+🏙️ Cidade: Hisar
+🏢 Org (ISP): AS9829 National Internet Backbone
+🔢 ASN: AS9829
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 23
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 45754.03s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-13T12:25:25.284Z

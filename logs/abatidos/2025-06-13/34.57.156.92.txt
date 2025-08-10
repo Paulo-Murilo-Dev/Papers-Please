@@ -1,0 +1,14 @@
+🧠 IP: 34.57.156.92
+🌐 País: US
+📍 Região: Iowa
+🏙️ Cidade: Council Bluffs
+🏢 Org (ISP): AS396982 Google LLC
+🔢 ASN: AS396982
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 1.73s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-13T05:16:51.815Z

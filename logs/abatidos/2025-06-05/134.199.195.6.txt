@@ -1,0 +1,14 @@
+🧠 IP: 134.199.195.6
+🌐 País: US
+📍 Região: Georgia
+🏙️ Cidade: Lithia Springs
+🏢 Org (ISP): AS14061 DigitalOcean, LLC
+🔢 ASN: AS14061
+🏢 Datacenter: Sim
+
+🎯 Portas acessadas: 22
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 321.19s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-05T13:49:24.177Z

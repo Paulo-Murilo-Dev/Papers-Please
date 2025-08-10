@@ -1,0 +1,14 @@
+🧠 IP: 145.223.93.122
+🌐 País: BR
+📍 Região: São Paulo
+🏙️ Cidade: São Paulo
+🏢 Org (ISP): AS47583 Hostinger International Limited
+🔢 ASN: AS47583
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 45010, 45578, 45024, 45034, 45590, 45598
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 6.83s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-28T14:05:50.276Z

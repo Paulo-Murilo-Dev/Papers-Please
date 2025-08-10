@@ -1,0 +1,14 @@
+🧠 IP: 162.158.243.57
+🌐 País: TW
+📍 Região: Taiwan
+🏙️ Cidade: Taipei
+🏢 Org (ISP): AS13335 Cloudflare, Inc.
+🔢 ASN: AS13335
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 2.96s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-09T06:38:34.609Z

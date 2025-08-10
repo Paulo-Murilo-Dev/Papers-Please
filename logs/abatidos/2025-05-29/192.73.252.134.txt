@@ -1,0 +1,14 @@
+🧠 IP: 192.73.252.134
+🌐 País: US
+📍 Região: California
+🏙️ Cidade: San Jose
+🏢 Org (ISP): AS36236 NetActuate, Inc
+🔢 ASN: AS36236
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 33724, 52304, 57884, 57626
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 12745.17s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-29T03:33:49.398Z

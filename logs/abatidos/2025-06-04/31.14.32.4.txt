@@ -1,0 +1,14 @@
+🧠 IP: 31.14.32.4
+🌐 País: NL
+📍 Região: Flevoland
+🏙️ Cidade: Lelystad
+🏢 Org (ISP): AS201401 NewVM B.V.
+🔢 ASN: AS201401
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 12354, 12201, 12237, 12381, 12390, 12435, 12579, 13128, 13443, 14406, 14901, 16008, 16026, 16089, 16404, 17070, 18015, 18033
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 154821.39s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-04T18:00:31.650Z

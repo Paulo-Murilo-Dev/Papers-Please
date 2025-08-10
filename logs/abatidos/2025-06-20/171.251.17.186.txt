@@ -1,0 +1,14 @@
+🧠 IP: 171.251.17.186
+🌐 País: VN
+📍 Região: Da Nang
+🏙️ Cidade: Da Nang
+🏢 Org (ISP): AS7552 Viettel Group
+🔢 ASN: AS7552
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 22
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 5.30s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-20T23:05:32.653Z

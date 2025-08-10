@@ -1,0 +1,14 @@
+🧠 IP: 52.118.44.105
+🌐 País: US
+📍 Região: Texas
+🏙️ Cidade: Dallas
+🏢 Org (ISP): AS36351 IBM Cloud
+🔢 ASN: AS36351
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 22
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 0.90s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-04T06:07:33.158Z

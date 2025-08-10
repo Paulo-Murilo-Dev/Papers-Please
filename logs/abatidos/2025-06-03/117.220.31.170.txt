@@ -1,0 +1,14 @@
+🧠 IP: 117.220.31.170
+🌐 País: IN
+📍 Região: Punjab
+🏙️ Cidade: Hoshiārpur
+🏢 Org (ISP): AS9829 National Internet Backbone
+🔢 ASN: AS9829
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 23
+📈 Requisições: 5
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 5319.42s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-03T00:22:51.681Z

@@ -1,0 +1,14 @@
+🧠 IP: 162.158.146.74
+🌐 País: CA
+📍 Região: British Columbia
+🏙️ Cidade: Vancouver
+🏢 Org (ISP): AS13335 Cloudflare, Inc.
+🔢 ASN: AS13335
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 443
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 3.40s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-06-09T06:41:17.418Z

@@ -1,0 +1,14 @@
+🧠 IP: 91.199.212.80
+🌐 País: US
+📍 Região: New York
+🏙️ Cidade: New York City
+🏢 Org (ISP): AS48447 Sectigo Limited
+🔢 ASN: AS48447
+🏢 Datacenter: Não
+
+🎯 Portas acessadas: 44054, 42574
+📈 Requisições: 20
+⚖️ Pontuação: 100
+⏱️ Tempo até punição: 44401.15s
+🛡️ Tipo de bloqueio: TEMPORÁRIO (10 min)
+📅 Quando: 2025-05-27T09:31:19.751Z
